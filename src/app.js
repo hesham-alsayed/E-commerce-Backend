@@ -38,6 +38,7 @@ const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:4000",
   "https://mern-stack-ecommerce-tau.vercel.app",
+  "https://e-commerce-store-psi-gold.vercel.app",
   "https://mern-stack-ecommerce-admin-mu.vercel.app",
 ];
 
@@ -87,7 +88,6 @@ app.use("/api/v1/paypal", paypalRoutes);
 app.use((req, res, next) => {
   next(new AppError(`Can't find ${req.originalUrl} on this server`, 404));
 });
-
 
 // ----- GLOBAL ERROR HANDLER -----
 app.use(globalErrorHandler);
