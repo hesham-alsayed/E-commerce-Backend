@@ -38,7 +38,7 @@ const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:4000",
   "https://mern-stack-ecommerce-tau.vercel.app",
-  "https://e-commerce-store-psi-gold.vercel.app",
+  "https://e-commerce-store-olive-iota.vercel.app",
   "https://mern-stack-ecommerce-admin-mu.vercel.app",
 ];
 
