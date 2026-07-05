@@ -1,0 +1,3007 @@
+[
+  
+  {
+    "title": "Men Leather Backpack",
+    "price": 1500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecdb0a2bc7cb15c5b675",
+    "colors": ["Black", "Brown"],
+    "size": "One Size",
+    "stock": 20,
+    "images": [
+      "https://example.com/images/backpack1.jpg",
+      "https://example.com/images/backpack2.jpg",
+      "https://example.com/images/backpack3.jpg"
+    ]
+  },
+  {
+    "title": "Men Travel Duffel Bag",
+    "price": 700,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecdb0a2bc7cb15c5b675",
+    "colors": ["Blue", "Black"],
+    "size": "One Size",
+    "stock": 15,
+    "images": [
+      "https://example.com/images/duffel1.jpg",
+      "https://example.com/images/duffel2.jpg",
+      "https://example.com/images/duffel3.jpg"
+    ]
+  },
+  {
+    "title": "Men Sling Bag",
+    "price": 500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecdb0a2bc7cb15c5b675",
+    "colors": ["Black", "Grey"],
+    "size": "One Size",
+    "stock": 18,
+    "images": [
+      "https://example.com/images/sling1.jpg",
+      "https://example.com/images/sling2.jpg",
+      "https://example.com/images/sling3.jpg"
+    ]
+  },
+  {
+    "title": "Men Laptop Bag",
+    "price": 900,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecdb0a2bc7cb15c5b675",
+    "colors": ["Black", "Brown"],
+    "size": "One Size",
+    "stock": 12,
+    "images": [
+      "https://example.com/images/laptop1.jpg",
+      "https://example.com/images/laptop2.jpg",
+      "https://example.com/images/laptop3.jpg"
+    ]
+  },
+  {
+    "title": "Men Crossbody Bag",
+    "price": 450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecdb0a2bc7cb15c5b675",
+    "colors": ["Navy", "Black"],
+    "size": "One Size",
+    "stock": 14,
+    "images": [
+      "https://example.com/images/crossbody1.jpg",
+      "https://example.com/images/crossbody2.jpg",
+      "https://example.com/images/crossbody3.jpg"
+    ]
+  },
+  {
+    "title": "Men Leather Belt Classic",
+    "price": 250,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Black", "Brown"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 50,
+    "images": [
+      "https://example.com/images/belt_classic1.jpg",
+      "https://example.com/images/belt_classic2.jpg"
+    ]
+  },
+  {
+    "title": "Men Casual Canvas Belt",
+    "price": 180,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Blue", "Khaki"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 40,
+    "images": [
+      "https://example.com/images/belt_canvas1.jpg",
+      "https://example.com/images/belt_canvas2.jpg"
+    ]
+  },
+  {
+    "title": "Men Reversible Leather Belt",
+    "price": 300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Black/Brown"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 35,
+    "images": [
+      "https://example.com/images/belt_reversible1.jpg",
+      "https://example.com/images/belt_reversible2.jpg"
+    ]
+  },
+  {
+    "title": "Men Formal Leather Belt",
+    "price": 270,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Black", "Dark Brown"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 45,
+    "images": [
+      "https://example.com/images/belt_formal1.jpg",
+      "https://example.com/images/belt_formal2.jpg"
+    ]
+  },
+  {
+    "title": "Men Braided Leather Belt",
+    "price": 220,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Brown", "Tan"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 30,
+    "images": [
+      "https://example.com/images/belt_braided1.jpg",
+      "https://example.com/images/belt_braided2.jpg"
+    ]
+  },
+  {
+    "title": "Men Casual Leather Belt",
+    "price": 200,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Black", "Grey"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 40,
+    "images": [
+      "https://example.com/images/belt_casual1.jpg",
+      "https://example.com/images/belt_casual2.jpg"
+    ]
+  },
+  {
+    "title": "Men Designer Belt",
+    "price": 400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Black", "Brown", "Tan"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 25,
+    "images": [
+      "https://example.com/images/belt_designer1.jpg",
+      "https://example.com/images/belt_designer2.jpg",
+      "https://example.com/images/belt_designer3.jpg"
+    ]
+  },
+  {
+    "title": "Men Casual Nylon Belt",
+    "price": 150,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Blue", "Grey", "Green"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 35,
+    "images": [
+      "https://example.com/images/belt_nylon1.jpg",
+      "https://example.com/images/belt_nylon2.jpg"
+    ]
+  },
+  {
+    "title": "Men Vintage Leather Belt",
+    "price": 280,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Brown", "Dark Brown"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 30,
+    "images": [
+      "https://example.com/images/belt_vintage1.jpg",
+      "https://example.com/images/belt_vintage2.jpg"
+    ]
+  },
+  {
+    "title": "Men Stretch Belt",
+    "price": 190,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Black", "Navy"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 40,
+    "images": [
+      "https://example.com/images/belt_stretch1.jpg",
+      "https://example.com/images/belt_stretch2.jpg"
+    ]
+  },
+  {
+    "title": "Men Casual Reversible Belt",
+    "price": 230,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Black/Brown"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 28,
+    "images": [
+      "https://example.com/images/belt_reversible1.jpg",
+      "https://example.com/images/belt_reversible2.jpg"
+    ]
+  },
+  {
+    "title": "Men Formal Canvas Belt",
+    "price": 170,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Blue", "Grey"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 35,
+    "images": [
+      "https://example.com/images/belt_formal_canvas1.jpg",
+      "https://example.com/images/belt_formal_canvas2.jpg"
+    ]
+  },
+  {
+    "title": "Men Casual Webbing Belt",
+    "price": 160,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Green", "Black"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 38,
+    "images": [
+      "https://example.com/images/belt_webbing1.jpg",
+      "https://example.com/images/belt_webbing2.jpg"
+    ]
+  },
+  {
+    "title": "Men Designer Buckle Belt",
+    "price": 420,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Black", "Brown"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 22,
+    "images": [
+      "https://example.com/images/belt_designer_buckle1.jpg",
+      "https://example.com/images/belt_designer_buckle2.jpg"
+    ]
+  },
+  {
+    "title": "Men Casual Leather Belt Slim",
+    "price": 210,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecf70a2bc7cb15c5b679",
+    "colors": ["Black", "Brown", "Tan"],
+    "size": [105, 110, 115, 120, 125, 130, 135],
+    "stock": 30,
+    "images": [
+      "https://example.com/images/belt_casual_slim1.jpg",
+      "https://example.com/images/belt_casual_slim2.jpg"
+    ]
+  },
+  {
+    "title": "Men Leather Wallet Slim",
+    "price": 350,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecfe0a2bc7cb15c5b67d",
+    "colors": ["Black", "Brown"],
+    "size": "One Size",
+    "stock": 50,
+    "images": [
+      "https://example.com/images/wallet_slim1.jpg",
+      "https://example.com/images/wallet_slim2.jpg"
+    ]
+  },
+  {
+    "title": "Men Foldable Leather Wallet",
+    "price": 400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecfe0a2bc7cb15c5b67d",
+    "colors": ["Black", "Tan"],
+    "size": "One Size",
+    "stock": 40,
+    "images": [
+      "https://example.com/images/wallet_foldable1.jpg",
+      "https://example.com/images/wallet_foldable2.jpg"
+    ]
+  },
+  {
+    "title": "Men Minimalist Wallet",
+    "price": 300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecfe0a2bc7cb15c5b67d",
+    "colors": ["Grey", "Black"],
+    "size": "One Size",
+    "stock": 45,
+    "images": [
+      "https://example.com/images/wallet_minimalist1.jpg",
+      "https://example.com/images/wallet_minimalist2.jpg"
+    ]
+  },
+  {
+    "title": "Men RFID Leather Wallet",
+    "price": 450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecfe0a2bc7cb15c5b67d",
+    "colors": ["Black", "Brown"],
+    "size": "One Size",
+    "stock": 35,
+    "images": [
+      "https://example.com/images/wallet_rfid1.jpg",
+      "https://example.com/images/wallet_rfid2.jpg"
+    ]
+  },
+  {
+    "title": "Men Zip Wallet",
+    "price": 380,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecfe0a2bc7cb15c5b67d",
+    "colors": ["Black", "Blue"],
+    "size": "One Size",
+    "stock": 40,
+    "images": [
+      "https://example.com/images/wallet_zip1.jpg",
+      "https://example.com/images/wallet_zip2.jpg"
+    ]
+  },
+  {
+    "title": "Men Coin Wallet",
+    "price": 250,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecfe0a2bc7cb15c5b67d",
+    "colors": ["Brown", "Tan"],
+    "size": "One Size",
+    "stock": 30,
+    "images": [
+      "https://example.com/images/wallet_coin1.jpg",
+      "https://example.com/images/wallet_coin2.jpg"
+    ]
+  },
+  {
+    "title": "Men Card Holder Wallet",
+    "price": 320,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecfe0a2bc7cb15c5b67d",
+    "colors": ["Black", "Grey"],
+    "size": "One Size",
+    "stock": 45,
+    "images": [
+      "https://example.com/images/wallet_cardholder1.jpg",
+      "https://example.com/images/wallet_cardholder2.jpg"
+    ]
+  },
+  {
+    "title": "Men Trifold Wallet",
+    "price": 400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecfe0a2bc7cb15c5b67d",
+    "colors": ["Brown", "Dark Brown"],
+    "size": "One Size",
+    "stock": 35,
+    "images": [
+      "https://example.com/images/wallet_trifold1.jpg",
+      "https://example.com/images/wallet_trifold2.jpg"
+    ]
+  },
+  {
+    "title": "Men Slim Leather Wallet",
+    "price": 370,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecfe0a2bc7cb15c5b67d",
+    "colors": ["Black", "Tan"],
+    "size": "One Size",
+    "stock": 40,
+    "images": [
+      "https://example.com/images/wallet_slim2_1.jpg",
+      "https://example.com/images/wallet_slim2_2.jpg"
+    ]
+  },
+  {
+    "title": "Men Travel Wallet",
+    "price": 420,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfecfe0a2bc7cb15c5b67d",
+    "colors": ["Black", "Brown"],
+    "size": "One Size",
+    "stock": 30,
+    "images": [
+      "https://example.com/images/wallet_travel1.jpg",
+      "https://example.com/images/wallet_travel2.jpg"
+    ]
+  },
+  {
+    "title": "Men Moisturizing Body Lotion",
+    "price": 180,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed200a2bc7cb15c5b681",
+    "colors": ["White"],
+    "size": [100, 150, 200, 250],
+    "stock": 50,
+    "images": [
+      "https://example.com/images/body_lotion1.jpg",
+      "https://example.com/images/body_lotion2.jpg"
+    ]
+  },
+  {
+    "title": "Men Nourishing Body Cream",
+    "price": 220,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed200a2bc7cb15c5b681",
+    "colors": ["Beige"],
+    "size": [100, 150, 200, 250],
+    "stock": 40,
+    "images": [
+      "https://example.com/images/body_cream1.jpg",
+      "https://example.com/images/body_cream2.jpg"
+    ]
+  },
+  {
+    "title": "Men Refreshing Body Wash",
+    "price": 200,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed200a2bc7cb15c5b681",
+    "colors": ["Blue"],
+    "size": [100, 150, 200, 250],
+    "stock": 45,
+    "images": [
+      "https://example.com/images/body_wash1.jpg",
+      "https://example.com/images/body_wash2.jpg"
+    ]
+  },
+  {
+    "title": "Men Hydrating Body Gel",
+    "price": 190,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed200a2bc7cb15c5b681",
+    "colors": ["Transparent"],
+    "size": [100, 150, 200, 250],
+    "stock": 35,
+    "images": [
+      "https://example.com/images/body_gel1.jpg",
+      "https://example.com/images/body_gel2.jpg"
+    ]
+  },
+  {
+    "title": "Men Soothing Body Oil",
+    "price": 250,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed200a2bc7cb15c5b681",
+    "colors": ["Golden"],
+    "size": [100, 150, 200, 250],
+    "stock": 30,
+    "images": [
+      "https://example.com/images/body_oil1.jpg",
+      "https://example.com/images/body_oil2.jpg"
+    ]
+  },
+  {
+    "title": "Men Nourishing Shampoo",
+    "price": 180,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed270a2bc7cb15c5b685",
+    "colors": ["Transparent"],
+    "size": [100, 150, 200, 250],
+    "stock": 50,
+    "images": [
+      "https://example.com/images/shampoo_nourishing1.jpg",
+      "https://example.com/images/shampoo_nourishing2.jpg"
+    ]
+  },
+  {
+    "title": "Men Moisturizing Conditioner",
+    "price": 200,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed270a2bc7cb15c5b685",
+    "colors": ["White"],
+    "size": [100, 150, 200, 250],
+    "stock": 45,
+    "images": [
+      "https://example.com/images/conditioner_moisturizing1.jpg",
+      "https://example.com/images/conditioner_moisturizing2.jpg"
+    ]
+  },
+  {
+    "title": "Men Hair Styling Gel",
+    "price": 220,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed270a2bc7cb15c5b685",
+    "colors": ["Clear"],
+    "size": [100, 150, 200, 250],
+    "stock": 40,
+    "images": [
+      "https://example.com/images/hair_gel1.jpg",
+      "https://example.com/images/hair_gel2.jpg"
+    ]
+  },
+  {
+    "title": "Men Hair Growth Oil",
+    "price": 250,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed270a2bc7cb15c5b685",
+    "colors": ["Golden"],
+    "size": [100, 150, 200, 250],
+    "stock": 35,
+    "images": [
+      "https://example.com/images/hair_oil1.jpg",
+      "https://example.com/images/hair_oil2.jpg"
+    ]
+  },
+  {
+    "title": "Men Anti-Dandruff Shampoo",
+    "price": 190,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed270a2bc7cb15c5b685",
+    "colors": ["Blue"],
+    "size": [100, 150, 200, 250],
+    "stock": 45,
+    "images": [
+      "https://example.com/images/shampoo_anti_dandruff1.jpg",
+      "https://example.com/images/shampoo_anti_dandruff2.jpg"
+    ]
+  },
+  {
+    "title": "Men Classic Eau de Toilette",
+    "price": 500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed360a2bc7cb15c5b689",
+    "colors": ["Transparent"],
+    "size": [50, 100, 150],
+    "stock": 40,
+    "images": [
+      "https://example.com/images/perfume_classic1.jpg",
+      "https://example.com/images/perfume_classic2.jpg"
+    ]
+  },
+  {
+    "title": "Men Sport Eau de Parfum",
+    "price": 550,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed360a2bc7cb15c5b689",
+    "colors": ["Blue"],
+    "size": [50, 100, 150],
+    "stock": 35,
+    "images": [
+      "https://example.com/images/perfume_sport1.jpg",
+      "https://example.com/images/perfume_sport2.jpg"
+    ]
+  },
+  {
+    "title": "Men Luxury Eau de Parfum",
+    "price": 800,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed360a2bc7cb15c5b689",
+    "colors": ["Gold"],
+    "size": [50, 100, 150],
+    "stock": 25,
+    "images": [
+      "https://example.com/images/perfume_luxury1.jpg",
+      "https://example.com/images/perfume_luxury2.jpg"
+    ]
+  },
+  {
+    "title": "Men Fresh Citrus Perfume",
+    "price": 450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed360a2bc7cb15c5b689",
+    "colors": ["Yellow"],
+    "size": [50, 100, 150],
+    "stock": 30,
+    "images": [
+      "https://example.com/images/perfume_citrus1.jpg",
+      "https://example.com/images/perfume_citrus2.jpg"
+    ]
+  },
+  {
+    "title": "Men Woody Musk Perfume",
+    "price": 600,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed360a2bc7cb15c5b689",
+    "colors": ["Brown"],
+    "size": [50, 100, 150],
+    "stock": 28,
+    "images": [
+      "https://example.com/images/perfume_woody1.jpg",
+      "https://example.com/images/perfume_woody2.jpg"
+    ]
+  },
+  {
+    "title": "Men Oriental Spice Perfume",
+    "price": 650,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed360a2bc7cb15c5b689",
+    "colors": ["Amber"],
+    "size": [50, 100, 150],
+    "stock": 32,
+    "images": [
+      "https://example.com/images/perfume_spice1.jpg",
+      "https://example.com/images/perfume_spice2.jpg"
+    ]
+  },
+  {
+    "title": "Men Ocean Breeze Perfume",
+    "price": 480,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed360a2bc7cb15c5b689",
+    "colors": ["Blue"],
+    "size": [50, 100, 150],
+    "stock": 40,
+    "images": [
+      "https://example.com/images/perfume_ocean1.jpg",
+      "https://example.com/images/perfume_ocean2.jpg"
+    ]
+  },
+  {
+    "title": "Men Night Oud Perfume",
+    "price": 900,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed360a2bc7cb15c5b689",
+    "colors": ["Dark Brown"],
+    "size": [50, 100, 150],
+    "stock": 20,
+    "images": [
+      "https://example.com/images/perfume_oud1.jpg",
+      "https://example.com/images/perfume_oud2.jpg"
+    ]
+  },
+  {
+    "title": "Men Fresh Linen Perfume",
+    "price": 420,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed360a2bc7cb15c5b689",
+    "colors": ["White"],
+    "size": [50, 100, 150],
+    "stock": 35,
+    "images": [
+      "https://example.com/images/perfume_linen1.jpg",
+      "https://example.com/images/perfume_linen2.jpg"
+    ]
+  },
+  {
+    "title": "Men Intense Amber Perfume",
+    "price": 700,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed360a2bc7cb15c5b689",
+    "colors": ["Amber"],
+    "size": [50, 100, 150],
+    "stock": 30,
+    "images": [
+      "https://example.com/images/perfume_amber1.jpg",
+      "https://example.com/images/perfume_amber2.jpg"
+    ]
+  },
+  {
+    "title": "Men Classic Cotton Socks",
+    "price": 50,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed520a2bc7cb15c5b68d",
+    "colors": ["Black", "White", "Grey"],
+    "size": [39, 40, 41, 42, 43, 44],
+    "stock": 100,
+    "images": [
+      "https://example.com/images/socks_classic1.jpg",
+      "https://example.com/images/socks_classic2.jpg"
+    ]
+  },
+  {
+    "title": "Men Sports Athletic Socks",
+    "price": 60,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed520a2bc7cb15c5b68d",
+    "colors": ["White", "Blue"],
+    "size": [39, 40, 41, 42, 43, 44],
+    "stock": 80,
+    "images": [
+      "https://example.com/images/socks_sport1.jpg",
+      "https://example.com/images/socks_sport2.jpg"
+    ]
+  },
+  {
+    "title": "Men Ankle Socks",
+    "price": 45,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed520a2bc7cb15c5b68d",
+    "colors": ["Black", "Grey"],
+    "size": [39, 40, 41, 42, 43, 44],
+    "stock": 90,
+    "images": [
+      "https://example.com/images/socks_ankle1.jpg",
+      "https://example.com/images/socks_ankle2.jpg"
+    ]
+  },
+  {
+    "title": "Men Crew Socks",
+    "price": 55,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed520a2bc7cb15c5b68d",
+    "colors": ["Navy", "Black"],
+    "size": [39, 40, 41, 42, 43, 44],
+    "stock": 70,
+    "images": [
+      "https://example.com/images/socks_crew1.jpg",
+      "https://example.com/images/socks_crew2.jpg"
+    ]
+  },
+  {
+    "title": "Men Patterned Socks",
+    "price": 65,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed520a2bc7cb15c5b68d",
+    "colors": ["Red", "Blue", "Grey"],
+    "size": [39, 40, 41, 42, 43, 44],
+    "stock": 60,
+    "images": [
+      "https://example.com/images/socks_pattern1.jpg",
+      "https://example.com/images/socks_pattern2.jpg"
+    ]
+  },
+  {
+    "title": "Men Wool Winter Socks",
+    "price": 80,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed520a2bc7cb15c5b68d",
+    "colors": ["Grey", "Brown"],
+    "size": [39, 40, 41, 42, 43, 44],
+    "stock": 50,
+    "images": [
+      "https://example.com/images/socks_wool1.jpg",
+      "https://example.com/images/socks_wool2.jpg"
+    ]
+  },
+  {
+    "title": "Men No-Show Socks",
+    "price": 40,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed520a2bc7cb15c5b68d",
+    "colors": ["Black", "White"],
+    "size": [39, 40, 41, 42, 43, 44],
+    "stock": 100,
+    "images": [
+      "https://example.com/images/socks_noshow1.jpg",
+      "https://example.com/images/socks_noshow2.jpg"
+    ]
+  },
+  {
+    "title": "Men Compression Socks",
+    "price": 90,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed520a2bc7cb15c5b68d",
+    "colors": ["Black", "Grey"],
+    "size": [39, 40, 41, 42, 43, 44],
+    "stock": 40,
+    "images": [
+      "https://example.com/images/socks_compression1.jpg",
+      "https://example.com/images/socks_compression2.jpg"
+    ]
+  },
+  {
+    "title": "Men Casual Stripe Socks",
+    "price": 55,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed520a2bc7cb15c5b68d",
+    "colors": ["Black", "White", "Red"],
+    "size": [39, 40, 41, 42, 43, 44],
+    "stock": 60,
+    "images": [
+      "https://example.com/images/socks_stripe1.jpg",
+      "https://example.com/images/socks_stripe2.jpg"
+    ]
+  },
+  {
+    "title": "Men Fashion Ankle Socks",
+    "price": 60,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5c993e35e26e6d7ffa808",
+    "subcategory": "69bfed520a2bc7cb15c5b68d",
+    "colors": ["Blue", "Grey", "Black"],
+    "size": [39, 40, 41, 42, 43, 44],
+    "stock": 55,
+    "images": [
+      "https://example.com/images/socks_fashion1.jpg",
+      "https://example.com/images/socks_fashion2.jpg"
+    ]
+  },
+  {
+    "title": "Men Leather Biker Jacket",
+    "description": "Classic black leather biker jacket",
+    "brand": "Zara",
+    "material": "Leather",
+    "price": 2000,
+    "oldPrice": 2200,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb781908fa87ce5a9aec",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["biker_black1.jpg", "biker_black2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 5 },
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 },
+          { "size": "xl", "stock": 6 }
+        ]
+      },
+      {
+        "color": "brown",
+        "colorCode": "#8B4513",
+        "images": ["biker_brown1.jpg", "biker_brown2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 4 },
+          { "size": "m", "stock": 9 },
+          { "size": "l", "stock": 7 },
+          { "size": "xl", "stock": 5 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Denim Jacket",
+    "description": "Blue denim jacket with classic fit",
+    "brand": "Levi's",
+    "material": "Denim",
+    "price": 1200,
+    "oldPrice": 1350,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb781908fa87ce5a9aec",
+    "variants": [
+      {
+        "color": "blue",
+        "colorCode": "#1E90FF",
+        "images": ["denim_blue1.jpg", "denim_blue2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 6 },
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 },
+          { "size": "xl", "stock": 7 }
+        ]
+      },
+      {
+        "color": "lightblue",
+        "colorCode": "#ADD8E6",
+        "images": ["denim_light1.jpg", "denim_light2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 5 },
+          { "size": "m", "stock": 9 },
+          { "size": "l", "stock": 8 },
+          { "size": "xl", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Bomber Jacket",
+    "description": "Casual bomber jacket with ribbed cuffs",
+    "brand": "H&M",
+    "material": "Polyester",
+    "price": 1400,
+    "oldPrice": 1600,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb781908fa87ce5a9aec",
+    "variants": [
+      {
+        "color": "green",
+        "colorCode": "#228B22",
+        "images": ["bomber_green1.jpg", "bomber_green2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 5 },
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 9 },
+          { "size": "xl", "stock": 6 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["bomber_black1.jpg", "bomber_black2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 6 },
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 },
+          { "size": "xl", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Parka Jacket",
+    "description": "Warm parka jacket with hood",
+    "brand": "North Face",
+    "material": "Nylon",
+    "price": 2500,
+    "oldPrice": 2700,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb781908fa87ce5a9aec",
+    "variants": [
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["parka_navy1.jpg", "parka_navy2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 5 },
+          { "size": "m", "stock": 8 },
+          { "size": "l", "stock": 7 },
+          { "size": "xl", "stock": 5 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["parka_black1.jpg", "parka_black2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 4 },
+          { "size": "m", "stock": 9 },
+          { "size": "l", "stock": 8 },
+          { "size": "xl", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Windbreaker Jacket",
+    "description": "Lightweight windbreaker for outdoor activities",
+    "brand": "Uniqlo",
+    "material": "Polyester",
+    "price": 1300,
+    "oldPrice": 1500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb781908fa87ce5a9aec",
+    "variants": [
+      {
+        "color": "red",
+        "colorCode": "#FF0000",
+        "images": ["wind_red1.jpg", "wind_red2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 6 },
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 },
+          { "size": "xl", "stock": 6 }
+        ]
+      },
+      {
+        "color": "blue",
+        "colorCode": "#1E90FF",
+        "images": ["wind_blue1.jpg", "wind_blue2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 5 },
+          { "size": "m", "stock": 9 },
+          { "size": "l", "stock": 8 },
+          { "size": "xl", "stock": 5 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Trench Coat",
+    "description": "Classic long trench coat",
+    "brand": "Burberry",
+    "material": "Cotton",
+    "price": 3000,
+    "oldPrice": 3500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb781908fa87ce5a9aec",
+    "variants": [
+      {
+        "color": "beige",
+        "colorCode": "#F5F5DC",
+        "images": ["trench_beige1.jpg", "trench_beige2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 5 },
+          { "size": "m", "stock": 9 },
+          { "size": "l", "stock": 8 },
+          { "size": "xl", "stock": 6 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["trench_black1.jpg", "trench_black2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 4 },
+          { "size": "m", "stock": 8 },
+          { "size": "l", "stock": 7 },
+          { "size": "xl", "stock": 5 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Hoodie Jacket",
+    "description": "Casual zip-up hoodie jacket",
+    "brand": "Nike",
+    "material": "Cotton Blend",
+    "price": 1100,
+    "oldPrice": 1300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb781908fa87ce5a9aec",
+    "variants": [
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["hoodie_grey1.jpg", "hoodie_grey2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 5 },
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 },
+          { "size": "xl", "stock": 6 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["hoodie_black1.jpg", "hoodie_black2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 4 },
+          { "size": "m", "stock": 9 },
+          { "size": "l", "stock": 7 },
+          { "size": "xl", "stock": 5 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Puffer Jacket",
+    "description": "Warm padded puffer jacket",
+    "brand": "Adidas",
+    "material": "Polyester",
+    "price": 2200,
+    "oldPrice": 2500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb781908fa87ce5a9aec",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["puffer_black1.jpg", "puffer_black2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 5 },
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 },
+          { "size": "xl", "stock": 6 }
+        ]
+      },
+      {
+        "color": "blue",
+        "colorCode": "#1E90FF",
+        "images": ["puffer_blue1.jpg", "puffer_blue2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 4 },
+          { "size": "m", "stock": 9 },
+          { "size": "l", "stock": 7 },
+          { "size": "xl", "stock": 5 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Safari Jacket",
+    "description": "Lightweight safari-style jacket",
+    "brand": "Gap",
+    "material": "Cotton",
+    "price": 1500,
+    "oldPrice": 1700,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb781908fa87ce5a9aec",
+    "variants": [
+      {
+        "color": "khaki",
+        "colorCode": "#F0E68C",
+        "images": ["safari_khaki1.jpg", "safari_khaki2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 5 },
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 },
+          { "size": "xl", "stock": 6 }
+        ]
+      },
+      {
+        "color": "olive",
+        "colorCode": "#808000",
+        "images": ["safari_olive1.jpg", "safari_olive2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 4 },
+          { "size": "m", "stock": 9 },
+          { "size": "l", "stock": 7 },
+          { "size": "xl", "stock": 5 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Varsity Jacket",
+    "description": "Stylish varsity jacket with contrast sleeves",
+    "brand": "Puma",
+    "material": "Wool Blend",
+    "price": 1800,
+    "oldPrice": 2000,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb781908fa87ce5a9aec",
+    "variants": [
+      {
+        "color": "red",
+        "colorCode": "#FF0000",
+        "images": ["varsity_red1.jpg", "varsity_red2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 5 },
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 },
+          { "size": "xl", "stock": 6 }
+        ]
+      },
+      {
+        "color": "blue",
+        "colorCode": "#1E90FF",
+        "images": ["varsity_blue1.jpg", "varsity_blue2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 4 },
+          { "size": "m", "stock": 9 },
+          { "size": "l", "stock": 7 },
+          { "size": "xl", "stock": 5 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Classic Black Blazer",
+    "description": "Elegant black blazer for formal occasions",
+    "brand": "Zara",
+    "material": "Wool Blend",
+    "price": 3000,
+    "oldPrice": 3500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb8e1908fa87ce5a9af0",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["blazer_black1.jpg", "blazer_black2.jpg"],
+        "sizes": [
+          { "size": "48", "stock": 5 },
+          { "size": "50", "stock": 8 },
+          { "size": "52", "stock": 6 },
+          { "size": "54", "stock": 4 }
+        ]
+      },
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["blazer_navy1.jpg", "blazer_navy2.jpg"],
+        "sizes": [
+          { "size": "48", "stock": 4 },
+          { "size": "50", "stock": 7 },
+          { "size": "52", "stock": 6 },
+          { "size": "54", "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Grey Blazer",
+    "description": "Modern slim fit grey blazer",
+    "brand": "H&M",
+    "material": "Polyester Blend",
+    "price": 2800,
+    "oldPrice": 3200,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb8e1908fa87ce5a9af0",
+    "variants": [
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["blazer_grey1.jpg", "blazer_grey2.jpg"],
+        "sizes": [
+          { "size": "48", "stock": 5 },
+          { "size": "50", "stock": 9 },
+          { "size": "52", "stock": 7 },
+          { "size": "54", "stock": 4 }
+        ]
+      },
+      {
+        "color": "charcoal",
+        "colorCode": "#36454F",
+        "images": ["blazer_charcoal1.jpg", "blazer_charcoal2.jpg"],
+        "sizes": [
+          { "size": "48", "stock": 4 },
+          { "size": "50", "stock": 8 },
+          { "size": "52", "stock": 6 },
+          { "size": "54", "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Navy Check Blazer",
+    "description": "Stylish checkered navy blazer",
+    "brand": "Massimo Dutti",
+    "material": "Wool",
+    "price": 3200,
+    "oldPrice": 3500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb8e1908fa87ce5a9af0",
+    "variants": [
+      {
+        "color": "navy check",
+        "colorCode": "#1E3A5F",
+        "images": ["blazer_check1.jpg", "blazer_check2.jpg"],
+        "sizes": [
+          { "size": "48", "stock": 5 },
+          { "size": "50", "stock": 7 },
+          { "size": "52", "stock": 6 },
+          { "size": "54", "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Beige Blazer",
+    "description": "Classic beige blazer for semi-formal events",
+    "brand": "Zara",
+    "material": "Cotton Blend",
+    "price": 2900,
+    "oldPrice": 3300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb8e1908fa87ce5a9af0",
+    "variants": [
+      {
+        "color": "beige",
+        "colorCode": "#F5F5DC",
+        "images": ["blazer_beige1.jpg", "blazer_beige2.jpg"],
+        "sizes": [
+          { "size": "48", "stock": 4 },
+          { "size": "50", "stock": 7 },
+          { "size": "52", "stock": 5 },
+          { "size": "54", "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Olive Blazer",
+    "description": "Casual olive blazer",
+    "brand": "H&M",
+    "material": "Linen Blend",
+    "price": 3000,
+    "oldPrice": 3300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb8e1908fa87ce5a9af0",
+    "variants": [
+      {
+        "color": "olive",
+        "colorCode": "#808000",
+        "images": ["blazer_olive1.jpg", "blazer_olive2.jpg"],
+        "sizes": [
+          { "size": "48", "stock": 5 },
+          { "size": "50", "stock": 8 },
+          { "size": "52", "stock": 6 },
+          { "size": "54", "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Light Grey Blazer",
+    "description": "Light grey blazer for office wear",
+    "brand": "Mango",
+    "material": "Wool Blend",
+    "price": 2800,
+    "oldPrice": 3100,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb8e1908fa87ce5a9af0",
+    "variants": [
+      {
+        "color": "light grey",
+        "colorCode": "#D3D3D3",
+        "images": ["blazer_lightgrey1.jpg", "blazer_lightgrey2.jpg"],
+        "sizes": [
+          { "size": "48", "stock": 4 },
+          { "size": "50", "stock": 7 },
+          { "size": "52", "stock": 6 },
+          { "size": "54", "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Black Slim Fit Blazer",
+    "description": "Sleek black slim fit blazer",
+    "brand": "Topman",
+    "material": "Polyester Blend",
+    "price": 3100,
+    "oldPrice": 3400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb8e1908fa87ce5a9af0",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["blazer_slim_black1.jpg", "blazer_slim_black2.jpg"],
+        "sizes": [
+          { "size": "48", "stock": 5 },
+          { "size": "50", "stock": 9 },
+          { "size": "52", "stock": 7 },
+          { "size": "54", "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Navy Slim Fit Blazer",
+    "description": "Modern navy blazer with slim cut",
+    "brand": "Zara",
+    "material": "Wool Blend",
+    "price": 3200,
+    "oldPrice": 3500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb8e1908fa87ce5a9af0",
+    "variants": [
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["blazer_slim_navy1.jpg", "blazer_slim_navy2.jpg"],
+        "sizes": [
+          { "size": "48", "stock": 5 },
+          { "size": "50", "stock": 8 },
+          { "size": "52", "stock": 6 },
+          { "size": "54", "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Grey Check Blazer",
+    "description": "Stylish grey check blazer",
+    "brand": "Massimo Dutti",
+    "material": "Wool",
+    "price": 3300,
+    "oldPrice": 3600,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb8e1908fa87ce5a9af0",
+    "variants": [
+      {
+        "color": "grey check",
+        "colorCode": "#808080",
+        "images": ["blazer_greycheck1.jpg", "blazer_greycheck2.jpg"],
+        "sizes": [
+          { "size": "48", "stock": 5 },
+          { "size": "50", "stock": 8 },
+          { "size": "52", "stock": 6 },
+          { "size": "54", "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Brown Blazer",
+    "description": "Classic brown blazer",
+    "brand": "H&M",
+    "material": "Cotton Blend",
+    "price": 2900,
+    "oldPrice": 3200,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb8e1908fa87ce5a9af0",
+    "variants": [
+      {
+        "color": "brown",
+        "colorCode": "#8B4513",
+        "images": ["blazer_brown1.jpg", "blazer_brown2.jpg"],
+        "sizes": [
+          { "size": "48", "stock": 4 },
+          { "size": "50", "stock": 7 },
+          { "size": "52", "stock": 6 },
+          { "size": "54", "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Classic Black Vest",
+    "description": "Elegant black vest suitable for formal and casual wear",
+    "brand": "Zara",
+    "material": "Wool Blend",
+    "price": 1800,
+    "oldPrice": 2000,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb951908fa87ce5a9af4",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["vest_black1.jpg", "vest_black2.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 5 },
+          { "size": "M", "stock": 7 },
+          { "size": "L", "stock": 6 },
+          { "size": "XL", "stock": 5 },
+          { "size": "2XL", "stock": 4 },
+          { "size": "3XL", "stock": 3 },
+          { "size": "4XL", "stock": 2 },
+          { "size": "5XL", "stock": 1 }
+        ]
+      },
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["vest_navy1.jpg", "vest_navy2.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 4 },
+          { "size": "M", "stock": 6 },
+          { "size": "L", "stock": 5 },
+          { "size": "XL", "stock": 5 },
+          { "size": "2XL", "stock": 3 },
+          { "size": "3XL", "stock": 2 },
+          { "size": "4XL", "stock": 2 },
+          { "size": "5XL", "stock": 1 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Grey Vest",
+    "description": "Modern slim fit grey vest",
+    "brand": "H&M",
+    "material": "Polyester Blend",
+    "price": 1700,
+    "oldPrice": 1900,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb951908fa87ce5a9af4",
+    "variants": [
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["vest_grey1.jpg", "vest_grey2.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 5 },
+          { "size": "M", "stock": 7 },
+          { "size": "L", "stock": 6 },
+          { "size": "XL", "stock": 5 },
+          { "size": "2XL", "stock": 4 },
+          { "size": "3XL", "stock": 3 },
+          { "size": "4XL", "stock": 2 },
+          { "size": "5XL", "stock": 1 }
+        ]
+      },
+      {
+        "color": "charcoal",
+        "colorCode": "#36454F",
+        "images": ["vest_charcoal1.jpg", "vest_charcoal2.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 4 },
+          { "size": "M", "stock": 6 },
+          { "size": "L", "stock": 5 },
+          { "size": "XL", "stock": 5 },
+          { "size": "2XL", "stock": 3 },
+          { "size": "3XL", "stock": 2 },
+          { "size": "4XL", "stock": 2 },
+          { "size": "5XL", "stock": 1 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Navy Check Vest",
+    "description": "Stylish checkered navy vest",
+    "brand": "Massimo Dutti",
+    "material": "Wool",
+    "price": 1750,
+    "oldPrice": 2000,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb951908fa87ce5a9af4",
+    "variants": [
+      {
+        "color": "navy check",
+        "colorCode": "#1E3A5F",
+        "images": ["vest_check1.jpg", "vest_check2.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 5 },
+          { "size": "M", "stock": 6 },
+          { "size": "L", "stock": 6 },
+          { "size": "XL", "stock": 5 },
+          { "size": "2XL", "stock": 3 },
+          { "size": "3XL", "stock": 3 },
+          { "size": "4XL", "stock": 2 },
+          { "size": "5XL", "stock": 1 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Beige Vest",
+    "description": "Classic beige vest for semi-formal events",
+    "brand": "Zara",
+    "material": "Cotton Blend",
+    "price": 1650,
+    "oldPrice": 1800,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb951908fa87ce5a9af4",
+    "variants": [
+      {
+        "color": "beige",
+        "colorCode": "#F5F5DC",
+        "images": ["vest_beige1.jpg", "vest_beige2.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 4 },
+          { "size": "M", "stock": 7 },
+          { "size": "L", "stock": 6 },
+          { "size": "XL", "stock": 5 },
+          { "size": "2XL", "stock": 4 },
+          { "size": "3XL", "stock": 3 },
+          { "size": "4XL", "stock": 2 },
+          { "size": "5XL", "stock": 1 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Olive Vest",
+    "description": "Casual olive vest",
+    "brand": "H&M",
+    "material": "Linen Blend",
+    "price": 1700,
+    "oldPrice": 1900,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb951908fa87ce5a9af4",
+    "variants": [
+      {
+        "color": "olive",
+        "colorCode": "#808000",
+        "images": ["vest_olive1.jpg", "vest_olive2.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 5 },
+          { "size": "M", "stock": 6 },
+          { "size": "L", "stock": 6 },
+          { "size": "XL", "stock": 5 },
+          { "size": "2XL", "stock": 4 },
+          { "size": "3XL", "stock": 3 },
+          { "size": "4XL", "stock": 2 },
+          { "size": "5XL", "stock": 1 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Light Grey Vest",
+    "description": "Light grey vest for office wear",
+    "brand": "Mango",
+    "material": "Wool Blend",
+    "price": 1600,
+    "oldPrice": 1800,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb951908fa87ce5a9af4",
+    "variants": [
+      {
+        "color": "light grey",
+        "colorCode": "#D3D3D3",
+        "images": ["vest_lightgrey1.jpg", "vest_lightgrey2.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 4 },
+          { "size": "M", "stock": 6 },
+          { "size": "L", "stock": 5 },
+          { "size": "XL", "stock": 5 },
+          { "size": "2XL", "stock": 3 },
+          { "size": "3XL", "stock": 2 },
+          { "size": "4XL", "stock": 2 },
+          { "size": "5XL", "stock": 1 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Black Slim Fit Vest",
+    "description": "Sleek black slim fit vest",
+    "brand": "Topman",
+    "material": "Polyester Blend",
+    "price": 1750,
+    "oldPrice": 2000,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb951908fa87ce5a9af4",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["vest_slim_black1.jpg", "vest_slim_black2.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 5 },
+          { "size": "M", "stock": 7 },
+          { "size": "L", "stock": 6 },
+          { "size": "XL", "stock": 5 },
+          { "size": "2XL", "stock": 4 },
+          { "size": "3XL", "stock": 3 },
+          { "size": "4XL", "stock": 2 },
+          { "size": "5XL", "stock": 1 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Navy Slim Fit Vest",
+    "description": "Modern navy vest with slim cut",
+    "brand": "Zara",
+    "material": "Wool Blend",
+    "price": 1800,
+    "oldPrice": 2000,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb951908fa87ce5a9af4",
+    "variants": [
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["vest_slim_navy1.jpg", "vest_slim_navy2.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 5 },
+          { "size": "M", "stock": 6 },
+          { "size": "L", "stock": 6 },
+          { "size": "XL", "stock": 5 },
+          { "size": "2XL", "stock": 4 },
+          { "size": "3XL", "stock": 3 },
+          { "size": "4XL", "stock": 2 },
+          { "size": "5XL", "stock": 1 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Grey Check Vest",
+    "description": "Stylish grey check vest",
+    "brand": "Massimo Dutti",
+    "material": "Wool",
+    "price": 1850,
+    "oldPrice": 2000,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb951908fa87ce5a9af4",
+    "variants": [
+      {
+        "color": "grey check",
+        "colorCode": "#808080",
+        "images": ["vest_greycheck1.jpg", "vest_greycheck2.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 5 },
+          { "size": "M", "stock": 6 },
+          { "size": "L", "stock": 6 },
+          { "size": "XL", "stock": 5 },
+          { "size": "2XL", "stock": 4 },
+          { "size": "3XL", "stock": 3 },
+          { "size": "4XL", "stock": 2 },
+          { "size": "5XL", "stock": 1 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Brown Vest",
+    "description": "Classic brown vest",
+    "brand": "H&M",
+    "material": "Cotton Blend",
+    "price": 1700,
+    "oldPrice": 1900,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca368c3cd26cbb209967",
+    "subcategory": "69bffb951908fa87ce5a9af4",
+    "variants": [
+      {
+        "color": "brown",
+        "colorCode": "#8B4513",
+        "images": ["vest_brown1.jpg", "vest_brown2.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 4 },
+          { "size": "M", "stock": 6 },
+          { "size": "L", "stock": 5 },
+          { "size": "XL", "stock": 5 },
+          { "size": "2XL", "stock": 3 },
+          { "size": "3XL", "stock": 2 },
+          { "size": "4XL", "stock": 2 },
+          { "size": "5XL", "stock": 1 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Classic Blue Jeans",
+    "description": "Comfortable classic blue jeans",
+    "brand": "Levi's",
+    "material": "Denim",
+    "price": 1200,
+    "oldPrice": 1400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffed7608af8303cfdfd81",
+    "variants": [
+      {
+        "color": "blue",
+        "colorCode": "#0000FF",
+        "images": ["jeans_blue1.jpg", "jeans_blue2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 7 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      },
+      {
+        "color": "dark blue",
+        "colorCode": "#00008B",
+        "images": ["jeans_darkblue1.jpg", "jeans_darkblue2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 4 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 5 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Black Jeans",
+    "description": "Modern slim fit black jeans",
+    "brand": "H&M",
+    "material": "Denim Stretch",
+    "price": 1300,
+    "oldPrice": 1500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffed7608af8303cfdfd81",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["jeans_black1.jpg", "jeans_black2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      },
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["jeans_grey1.jpg", "jeans_grey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 4 },
+          { "size": 32, "stock": 5 },
+          { "size": 34, "stock": 5 },
+          { "size": 36, "stock": 4 },
+          { "size": 38, "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Relaxed Fit Blue Jeans",
+    "description": "Comfortable relaxed fit for everyday wear",
+    "brand": "Zara",
+    "material": "Denim",
+    "price": 1250,
+    "oldPrice": 1450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffed7608af8303cfdfd81",
+    "variants": [
+      {
+        "color": "light blue",
+        "colorCode": "#ADD8E6",
+        "images": ["jeans_lightblue1.jpg", "jeans_lightblue2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 7 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Distressed Blue Jeans",
+    "description": "Trendy distressed denim",
+    "brand": "Topman",
+    "material": "Denim",
+    "price": 1350,
+    "oldPrice": 1550,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffed7608af8303cfdfd81",
+    "variants": [
+      {
+        "color": "blue distressed",
+        "colorCode": "#1E90FF",
+        "images": ["jeans_distressed1.jpg", "jeans_distressed2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Classic Grey Jeans",
+    "description": "Versatile grey denim jeans",
+    "brand": "Levi's",
+    "material": "Denim",
+    "price": 1280,
+    "oldPrice": 1480,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffed7608af8303cfdfd81",
+    "variants": [
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["jeans_greyclassic1.jpg", "jeans_greyclassic2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 5 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Blue Jeans",
+    "description": "Modern slim fit blue jeans",
+    "brand": "H&M",
+    "material": "Denim Stretch",
+    "price": 1320,
+    "oldPrice": 1520,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffed7608af8303cfdfd81",
+    "variants": [
+      {
+        "color": "blue",
+        "colorCode": "#0000FF",
+        "images": ["jeans_slimblue1.jpg", "jeans_slimblue2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Black Ripped Jeans",
+    "description": "Trendy ripped black jeans",
+    "brand": "Topman",
+    "material": "Denim",
+    "price": 1380,
+    "oldPrice": 1580,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffed7608af8303cfdfd81",
+    "variants": [
+      {
+        "color": "black ripped",
+        "colorCode": "#000000",
+        "images": ["jeans_blackripped1.jpg", "jeans_blackripped2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 5 },
+          { "size": 34, "stock": 5 },
+          { "size": 36, "stock": 4 },
+          { "size": 38, "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Light Grey Slim Jeans",
+    "description": "Light grey slim denim jeans",
+    "brand": "Zara",
+    "material": "Denim Stretch",
+    "price": 1300,
+    "oldPrice": 1500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffed7608af8303cfdfd81",
+    "variants": [
+      {
+        "color": "light grey",
+        "colorCode": "#D3D3D3",
+        "images": ["jeans_lightgrey1.jpg", "jeans_lightgrey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Dark Grey Jeans",
+    "description": "Dark grey classic jeans",
+    "brand": "Levi's",
+    "material": "Denim",
+    "price": 1350,
+    "oldPrice": 1550,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffed7608af8303cfdfd81",
+    "variants": [
+      {
+        "color": "dark grey",
+        "colorCode": "#A9A9A9",
+        "images": ["jeans_darkgrey1.jpg", "jeans_darkgrey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Blue Ripped Jeans",
+    "description": "Stylish ripped blue jeans",
+    "brand": "Topman",
+    "material": "Denim Stretch",
+    "price": 1400,
+    "oldPrice": 1600,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffed7608af8303cfdfd81",
+    "variants": [
+      {
+        "color": "blue ripped",
+        "colorCode": "#1E90FF",
+        "images": ["jeans_blueripped1.jpg", "jeans_blueripped2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Classic Black Pants",
+    "description": "Comfortable classic black pants",
+    "brand": "Levi's",
+    "material": "Cotton Blend",
+    "price": 1200,
+    "oldPrice": 1400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffee0608af8303cfdfd85",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["pants_black1.jpg", "pants_black2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 7 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      },
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["pants_grey1.jpg", "pants_grey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 4 },
+          { "size": 32, "stock": 5 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Navy Pants",
+    "description": "Modern slim fit navy pants",
+    "brand": "H&M",
+    "material": "Cotton Stretch",
+    "price": 1300,
+    "oldPrice": 1500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffee0608af8303cfdfd85",
+    "variants": [
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["pants_navy1.jpg", "pants_navy2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      },
+      {
+        "color": "dark grey",
+        "colorCode": "#A9A9A9",
+        "images": ["pants_darkgrey1.jpg", "pants_darkgrey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 4 },
+          { "size": 32, "stock": 5 },
+          { "size": 34, "stock": 5 },
+          { "size": 36, "stock": 4 },
+          { "size": 38, "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Beige Pants",
+    "description": "Versatile casual beige pants",
+    "brand": "Zara",
+    "material": "Cotton",
+    "price": 1250,
+    "oldPrice": 1450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffee0608af8303cfdfd85",
+    "variants": [
+      {
+        "color": "beige",
+        "colorCode": "#F5F5DC",
+        "images": ["pants_beige1.jpg", "pants_beige2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Charcoal Pants",
+    "description": "Modern slim fit charcoal pants",
+    "brand": "Topman",
+    "material": "Cotton Blend",
+    "price": 1350,
+    "oldPrice": 1550,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffee0608af8303cfdfd85",
+    "variants": [
+      {
+        "color": "charcoal",
+        "colorCode": "#36454F",
+        "images": ["pants_charcoal1.jpg", "pants_charcoal2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 5 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Relaxed Fit Olive Pants",
+    "description": "Comfortable relaxed fit olive pants",
+    "brand": "H&M",
+    "material": "Cotton",
+    "price": 1280,
+    "oldPrice": 1480,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffee0608af8303cfdfd85",
+    "variants": [
+      {
+        "color": "olive",
+        "colorCode": "#808000",
+        "images": ["pants_olive1.jpg", "pants_olive2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Formal Black Pants",
+    "description": "Elegant formal black pants",
+    "brand": "Levi's",
+    "material": "Polyester Blend",
+    "price": 1400,
+    "oldPrice": 1600,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffee0608af8303cfdfd85",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["pants_formalblack1.jpg", "pants_formalblack2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Grey Pants",
+    "description": "Modern slim fit grey pants",
+    "brand": "Topman",
+    "material": "Cotton Stretch",
+    "price": 1320,
+    "oldPrice": 1520,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffee0608af8303cfdfd85",
+    "variants": [
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["pants_slimgrey1.jpg", "pants_slimgrey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Navy Pants",
+    "description": "Comfortable casual navy pants",
+    "brand": "Zara",
+    "material": "Cotton",
+    "price": 1300,
+    "oldPrice": 1500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffee0608af8303cfdfd85",
+    "variants": [
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["pants_casualnavy1.jpg", "pants_casualnavy2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Dark Blue Pants",
+    "description": "Stylish dark blue pants",
+    "brand": "Levi's",
+    "material": "Denim",
+    "price": 1350,
+    "oldPrice": 1550,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffee0608af8303cfdfd85",
+    "variants": [
+      {
+        "color": "dark blue",
+        "colorCode": "#00008B",
+        "images": ["pants_darkblue1.jpg", "pants_darkblue2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Light Grey Pants",
+    "description": "Versatile light grey pants",
+    "brand": "H&M",
+    "material": "Cotton Blend",
+    "price": 1280,
+    "oldPrice": 1480,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffee0608af8303cfdfd85",
+    "variants": [
+      {
+        "color": "light grey",
+        "colorCode": "#D3D3D3",
+        "images": ["pants_lightgrey1.jpg", "pants_lightgrey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Classic Black Jogger",
+    "description": "Comfortable classic black jogger pants",
+    "brand": "Nike",
+    "material": "Cotton Blend",
+    "price": 1100,
+    "oldPrice": 1300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffeec608af8303cfdfd89",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["jogger_black1.jpg", "jogger_black2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 7 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      },
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["jogger_grey1.jpg", "jogger_grey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 4 },
+          { "size": 32, "stock": 5 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Navy Jogger",
+    "description": "Modern slim fit navy jogger pants",
+    "brand": "Adidas",
+    "material": "Cotton Stretch",
+    "price": 1150,
+    "oldPrice": 1350,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffeec608af8303cfdfd89",
+    "variants": [
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["jogger_navy1.jpg", "jogger_navy2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      },
+      {
+        "color": "dark grey",
+        "colorCode": "#A9A9A9",
+        "images": ["jogger_darkgrey1.jpg", "jogger_darkgrey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 4 },
+          { "size": 32, "stock": 5 },
+          { "size": 34, "stock": 5 },
+          { "size": 36, "stock": 4 },
+          { "size": 38, "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Beige Jogger",
+    "description": "Versatile casual beige jogger pants",
+    "brand": "Puma",
+    "material": "Cotton",
+    "price": 1200,
+    "oldPrice": 1400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffeec608af8303cfdfd89",
+    "variants": [
+      {
+        "color": "beige",
+        "colorCode": "#F5F5DC",
+        "images": ["jogger_beige1.jpg", "jogger_beige2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Charcoal Jogger",
+    "description": "Modern slim fit charcoal jogger pants",
+    "brand": "Under Armour",
+    "material": "Cotton Blend",
+    "price": 1250,
+    "oldPrice": 1450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffeec608af8303cfdfd89",
+    "variants": [
+      {
+        "color": "charcoal",
+        "colorCode": "#36454F",
+        "images": ["jogger_charcoal1.jpg", "jogger_charcoal2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 5 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Relaxed Fit Olive Jogger",
+    "description": "Comfortable relaxed fit olive jogger pants",
+    "brand": "Nike",
+    "material": "Cotton",
+    "price": 1180,
+    "oldPrice": 1380,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffeec608af8303cfdfd89",
+    "variants": [
+      {
+        "color": "olive",
+        "colorCode": "#808000",
+        "images": ["jogger_olive1.jpg", "jogger_olive2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Formal Black Jogger",
+    "description": "Elegant formal black jogger pants",
+    "brand": "Adidas",
+    "material": "Polyester Blend",
+    "price": 1300,
+    "oldPrice": 1500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffeec608af8303cfdfd89",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["jogger_formalblack1.jpg", "jogger_formalblack2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Grey Jogger",
+    "description": "Modern slim fit grey jogger pants",
+    "brand": "Puma",
+    "material": "Cotton Stretch",
+    "price": 1220,
+    "oldPrice": 1420,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffeec608af8303cfdfd89",
+    "variants": [
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["jogger_slimgrey1.jpg", "jogger_slimgrey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Navy Jogger",
+    "description": "Comfortable casual navy jogger pants",
+    "brand": "Nike",
+    "material": "Cotton",
+    "price": 1200,
+    "oldPrice": 1400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffeec608af8303cfdfd89",
+    "variants": [
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["jogger_casualnavy1.jpg", "jogger_casualnavy2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Dark Blue Jogger",
+    "description": "Stylish dark blue jogger pants",
+    "brand": "Adidas",
+    "material": "Denim Blend",
+    "price": 1250,
+    "oldPrice": 1450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffeec608af8303cfdfd89",
+    "variants": [
+      {
+        "color": "dark blue",
+        "colorCode": "#00008B",
+        "images": ["jogger_darkblue1.jpg", "jogger_darkblue2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Light Grey Jogger",
+    "description": "Versatile light grey jogger pants",
+    "brand": "Puma",
+    "material": "Cotton Blend",
+    "price": 1180,
+    "oldPrice": 1380,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffeec608af8303cfdfd89",
+    "variants": [
+      {
+        "color": "light grey",
+        "colorCode": "#D3D3D3",
+        "images": ["jogger_lightgrey1.jpg", "jogger_lightgrey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Classic Black Sweatpants",
+    "description": "Comfortable classic black sweatpants",
+    "brand": "Nike",
+    "material": "Cotton Blend",
+    "price": 1000,
+    "oldPrice": 1200,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffefa608af8303cfdfd8d",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["sweatpants_black1.jpg", "sweatpants_black2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 7 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      },
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["sweatpants_grey1.jpg", "sweatpants_grey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 4 },
+          { "size": 32, "stock": 5 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Navy Sweatpants",
+    "description": "Modern slim fit navy sweatpants",
+    "brand": "Adidas",
+    "material": "Cotton Stretch",
+    "price": 1050,
+    "oldPrice": 1250,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffefa608af8303cfdfd8d",
+    "variants": [
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["sweatpants_navy1.jpg", "sweatpants_navy2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      },
+      {
+        "color": "dark grey",
+        "colorCode": "#A9A9A9",
+        "images": ["sweatpants_darkgrey1.jpg", "sweatpants_darkgrey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 4 },
+          { "size": 32, "stock": 5 },
+          { "size": 34, "stock": 5 },
+          { "size": 36, "stock": 4 },
+          { "size": 38, "stock": 3 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Relaxed Fit Olive Sweatpants",
+    "description": "Comfortable relaxed fit olive sweatpants",
+    "brand": "Nike",
+    "material": "Cotton",
+    "price": 1020,
+    "oldPrice": 1220,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffefa608af8303cfdfd8d",
+    "variants": [
+      {
+        "color": "olive",
+        "colorCode": "#808000",
+        "images": ["sweatpants_olive1.jpg", "sweatpants_olive2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Beige Sweatpants",
+    "description": "Versatile casual beige sweatpants",
+    "brand": "Puma",
+    "material": "Cotton",
+    "price": 1080,
+    "oldPrice": 1280,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffefa608af8303cfdfd8d",
+    "variants": [
+      {
+        "color": "beige",
+        "colorCode": "#F5F5DC",
+        "images": ["sweatpants_beige1.jpg", "sweatpants_beige2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Dark Blue Sweatpants",
+    "description": "Stylish dark blue sweatpants",
+    "brand": "Adidas",
+    "material": "Polyester Blend",
+    "price": 1100,
+    "oldPrice": 1300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffefa608af8303cfdfd8d",
+    "variants": [
+      {
+        "color": "dark blue",
+        "colorCode": "#00008B",
+        "images": ["sweatpants_darkblue1.jpg", "sweatpants_darkblue2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Light Grey Sweatpants",
+    "description": "Versatile light grey sweatpants",
+    "brand": "Puma",
+    "material": "Cotton Blend",
+    "price": 1070,
+    "oldPrice": 1270,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffefa608af8303cfdfd8d",
+    "variants": [
+      {
+        "color": "light grey",
+        "colorCode": "#D3D3D3",
+        "images": ["sweatpants_lightgrey1.jpg", "sweatpants_lightgrey2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Charcoal Sweatpants",
+    "description": "Modern slim fit charcoal sweatpants",
+    "brand": "Under Armour",
+    "material": "Cotton Blend",
+    "price": 1150,
+    "oldPrice": 1350,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffefa608af8303cfdfd8d",
+    "variants": [
+      {
+        "color": "charcoal",
+        "colorCode": "#36454F",
+        "images": ["sweatpants_charcoal1.jpg", "sweatpants_charcoal2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 5 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Olive Green Sweatpants",
+    "description": "Stylish olive green sweatpants",
+    "brand": "Nike",
+    "material": "Cotton Blend",
+    "price": 1120,
+    "oldPrice": 1320,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffefa608af8303cfdfd8d",
+    "variants": [
+      {
+        "color": "olive",
+        "colorCode": "#808000",
+        "images": ["sweatpants_olivegreen1.jpg", "sweatpants_olivegreen2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Blue Sweatpants",
+    "description": "Comfortable casual blue sweatpants",
+    "brand": "Adidas",
+    "material": "Cotton",
+    "price": 1090,
+    "oldPrice": 1290,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffefa608af8303cfdfd8d",
+    "variants": [
+      {
+        "color": "blue",
+        "colorCode": "#0000FF",
+        "images": ["sweatpants_blue1.jpg", "sweatpants_blue2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Light Brown Sweatpants",
+    "description": "Versatile light brown sweatpants",
+    "brand": "Puma",
+    "material": "Cotton Blend",
+    "price": 1060,
+    "oldPrice": 1260,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b5ca528c3cd26cbb20996b",
+    "subcategory": "69bffefa608af8303cfdfd8d",
+    "variants": [
+      {
+        "color": "light brown",
+        "colorCode": "#A52A2A",
+        "images": ["sweatpants_lightbrown1.jpg", "sweatpants_lightbrown2.jpg"],
+        "sizes": [
+          { "size": 30, "stock": 5 },
+          { "size": 32, "stock": 6 },
+          { "size": 34, "stock": 6 },
+          { "size": 36, "stock": 5 },
+          { "size": 38, "stock": 4 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  }
+]

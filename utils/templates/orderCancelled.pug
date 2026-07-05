@@ -1,0 +1,62 @@
+doctype html
+html
+  head
+    meta(charset="UTF-8")
+    title Order Cancelled
+    style.
+      body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; }
+      .container { max-width: 600px; margin: 20px auto; background: #fff; border-radius: 8px; overflow: hidden; }
+      .header { background-color: #232f3e; color: #fff; padding: 20px; text-align: center; }
+      .header h1 { margin: 0; font-size: 24px; }
+      .content { padding: 20px; }
+      .button {
+        display: inline-block;
+        padding: 12px 25px;
+        background-color: #232f3e;  /* same as header */
+        color: #fff;                /* white text */
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+        margin-top: 15px;
+        text-align: center;
+      }
+      .order-summary { width: 100%; border-collapse: collapse; margin-top: 15px; }
+      .order-summary th, .order-summary td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+      .order-summary th { background-color: #f2f2f2; }
+      .footer { font-size: 12px; color: #555; margin-top: 20px; text-align: center; }
+  body
+    .container
+      .header
+        h1 Your Order Was Cancelled ❌
+      .content
+        p Hi #{firstName},
+        p Unfortunately, your order **#{orderId}** has been cancelled. If you believe this is a mistake, please contact support.
+        h3 Order Summary:
+        table.order-summary
+          thead
+            tr
+              th Product
+              th Qty
+              th Price
+          tbody
+            each item in items
+              tr
+                td #{item.title}
+                td #{item.quantity}
+                td $#{item.price}
+        p Total: $#{totalPrice}
+        a.button(href=link) View Your Order
+      .footer
+        p If you have any questions, reply to this email or contact support.
+
+
+//- {
+//-   firstName,
+//-   orderId,
+//-   oldStatus,   // string, previous status
+//-   newStatus,   // "cancelled"
+//-   items,
+//-   totalPrice,
+//-   link,
+//-   email
+//- }        

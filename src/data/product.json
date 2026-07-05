@@ -1,0 +1,3513 @@
+[
+  {
+    "title": "men basic t-shirt black",
+    "description": "classic black cotton t-shirt",
+    "brand": "zara",
+    "material": "cotton",
+    "price": 250,
+    "oldPrice": 300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde728e265d2841b77f14",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [{ "size": "m", "stock": 12 }]
+      },
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["grey1.jpg"],
+        "sizes": [{ "size": "l", "stock": 6 }]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men basic t-shirt white",
+    "description": "simple white t-shirt",
+    "brand": "hm",
+    "material": "cotton",
+    "price": 240,
+    "oldPrice": 290,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde728e265d2841b77f14",
+    "variants": [
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [{ "size": "s", "stock": 12 }]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [{ "size": "m", "stock": 10 }]
+      },
+      {
+        "color": "blue",
+        "colorCode": "#0000FF",
+        "images": ["blue1.jpg"],
+        "sizes": [{ "size": "l", "stock": 8 }]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men oversized t-shirt",
+    "description": "oversized streetwear style",
+    "brand": "nike",
+    "material": "cotton",
+    "price": 300,
+    "oldPrice": 360,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde728e265d2841b77f14",
+    "variants": [
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["grey1.jpg"],
+        "sizes": [{ "size": "l", "stock": 20 }]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [{ "size": "m", "stock": 15 }]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [{ "size": "s", "stock": 10 }]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men slim fit t-shirt",
+    "description": "modern slim fit design",
+    "brand": "adidas",
+    "material": "cotton",
+    "price": 270,
+    "oldPrice": 320,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde728e265d2841b77f14",
+    "variants": [
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["navy1.jpg"],
+        "sizes": [{ "size": "m", "stock": 14 }]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [{ "size": "l", "stock": 10 }]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [{ "size": "s", "stock": 9 }]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men printed t-shirt",
+    "description": "graphic print design",
+    "brand": "pull&bear",
+    "material": "cotton",
+    "price": 280,
+    "oldPrice": 330,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde728e265d2841b77f14",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["print1.jpg"],
+        "sizes": [{ "size": "m", "stock": 11 }]
+      },
+      {
+        "color": "red",
+        "colorCode": "#FF0000",
+        "images": ["print2.jpg"],
+        "sizes": [{ "size": "l", "stock": 7 }]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["print3.jpg"],
+        "sizes": [{ "size": "s", "stock": 8 }]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men cotton t-shirt",
+    "description": "100 percent cotton material",
+    "brand": "defacto",
+    "material": "cotton",
+    "price": 230,
+    "oldPrice": 280,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde728e265d2841b77f14",
+    "variants": [
+      {
+        "color": "beige",
+        "colorCode": "#F5F5DC",
+        "images": ["beige1.jpg"],
+        "sizes": [{ "size": "m", "stock": 13 }]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [{ "size": "l", "stock": 9 }]
+      },
+      {
+        "color": "brown",
+        "colorCode": "#8B4513",
+        "images": ["brown1.jpg"],
+        "sizes": [{ "size": "s", "stock": 6 }]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men summer t-shirt",
+    "description": "light breathable summer wear",
+    "brand": "zara",
+    "material": "cotton",
+    "price": 260,
+    "oldPrice": 310,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde728e265d2841b77f14",
+    "variants": [
+      {
+        "color": "yellow",
+        "colorCode": "#FFFF00",
+        "images": ["yellow1.jpg"],
+        "sizes": [{ "size": "s", "stock": 10 }]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [{ "size": "m", "stock": 12 }]
+      },
+      {
+        "color": "blue",
+        "colorCode": "#0000FF",
+        "images": ["blue1.jpg"],
+        "sizes": [{ "size": "l", "stock": 8 }]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men casual t-shirt",
+    "description": "daily casual outfit",
+    "brand": "hm",
+    "material": "cotton",
+    "price": 250,
+    "oldPrice": 300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde728e265d2841b77f14",
+    "variants": [
+      {
+        "color": "green",
+        "colorCode": "#008000",
+        "images": ["green1.jpg"],
+        "sizes": [{ "size": "m", "stock": 16 }]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [{ "size": "l", "stock": 9 }]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [{ "size": "s", "stock": 7 }]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men striped t-shirt",
+    "description": "striped design t-shirt",
+    "brand": "nike",
+    "material": "cotton",
+    "price": 290,
+    "oldPrice": 340,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde728e265d2841b77f14",
+    "variants": [
+      {
+        "color": "blue",
+        "colorCode": "#0000FF",
+        "images": ["striped1.jpg"],
+        "sizes": [{ "size": "l", "stock": 7 }]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["striped2.jpg"],
+        "sizes": [{ "size": "m", "stock": 10 }]
+      },
+      {
+        "color": "red",
+        "colorCode": "#FF0000",
+        "images": ["striped3.jpg"],
+        "sizes": [{ "size": "s", "stock": 6 }]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men trendy t-shirt",
+    "description": "latest fashion trend",
+    "brand": "adidas",
+    "material": "cotton",
+    "price": 310,
+    "oldPrice": 360,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde728e265d2841b77f14",
+    "variants": [
+      {
+        "color": "purple",
+        "colorCode": "#800080",
+        "images": ["purple1.jpg"],
+        "sizes": [{ "size": "m", "stock": 9 }]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [{ "size": "l", "stock": 6 }]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [{ "size": "s", "stock": 5 }]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "men classic polo-shirt black",
+    "description": "classic black polo shirt for men",
+    "brand": "zara",
+    "material": "cotton",
+    "price": 320,
+    "oldPrice": 380,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde808e265d2841b77f18",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["navy1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 8 },
+          { "size": "l", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men slim fit polo-shirt",
+    "description": "modern slim fit polo shirt",
+    "brand": "hm",
+    "material": "cotton",
+    "price": 300,
+    "oldPrice": 350,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde808e265d2841b77f18",
+    "variants": [
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 14 },
+          { "size": "m", "stock": 10 }
+        ]
+      },
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["grey1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 9 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black2.jpg"],
+        "sizes": [
+          { "size": "l", "stock": 8 },
+          { "size": "xl", "stock": 5 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men striped polo-shirt",
+    "description": "striped casual polo shirt",
+    "brand": "nike",
+    "material": "cotton",
+    "price": 340,
+    "oldPrice": 390,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde808e265d2841b77f18",
+    "variants": [
+      {
+        "color": "blue",
+        "colorCode": "#0000FF",
+        "images": ["blue1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 15 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white3.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 8 }
+        ]
+      },
+      {
+        "color": "red",
+        "colorCode": "#FF0000",
+        "images": ["red1.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 9 },
+          { "size": "m", "stock": 7 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men casual polo-shirt",
+    "description": "light casual polo for daily wear",
+    "brand": "adidas",
+    "material": "cotton",
+    "price": 310,
+    "oldPrice": 360,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde808e265d2841b77f18",
+    "variants": [
+      {
+        "color": "green",
+        "colorCode": "#008000",
+        "images": ["green1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white4.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 15 },
+          { "size": "l", "stock": 12 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black3.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 8 },
+          { "size": "m", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men modern polo-shirt",
+    "description": "modern style polo shirt",
+    "brand": "pull&bear",
+    "material": "cotton",
+    "price": 330,
+    "oldPrice": 380,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde808e265d2841b77f18",
+    "variants": [
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["grey2.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 14 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "blue",
+        "colorCode": "#0000FF",
+        "images": ["blue2.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 9 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white5.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 8 },
+          { "size": "m", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men sporty polo-shirt",
+    "description": "sporty polo shirt for active lifestyle",
+    "brand": "nike",
+    "material": "polyester",
+    "price": 350,
+    "oldPrice": 400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde808e265d2841b77f18",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black4.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 15 },
+          { "size": "l", "stock": 12 }
+        ]
+      },
+      {
+        "color": "red",
+        "colorCode": "#FF0000",
+        "images": ["red2.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 9 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white6.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 10 },
+          { "size": "m", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men striped slim polo-shirt",
+    "description": "slim fit striped polo shirt",
+    "brand": "adidas",
+    "material": "cotton",
+    "price": 320,
+    "oldPrice": 370,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde808e265d2841b77f18",
+    "variants": [
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white7.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 14 },
+          { "size": "l", "stock": 12 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black5.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["grey3.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 10 },
+          { "size": "m", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men casual striped polo-shirt",
+    "description": "casual striped polo for daily wear",
+    "brand": "hm",
+    "material": "cotton",
+    "price": 310,
+    "oldPrice": 360,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde808e265d2841b77f18",
+    "variants": [
+      {
+        "color": "blue",
+        "colorCode": "#0000FF",
+        "images": ["blue3.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white8.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 15 },
+          { "size": "l", "stock": 12 }
+        ]
+      },
+      {
+        "color": "green",
+        "colorCode": "#008000",
+        "images": ["green2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 10 },
+          { "size": "m", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men modern slim polo-shirt",
+    "description": "modern slim polo for everyday wear",
+    "brand": "pull&bear",
+    "material": "cotton",
+    "price": 330,
+    "oldPrice": 380,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde808e265d2841b77f18",
+    "variants": [
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["grey4.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black6.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white9.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 8 },
+          { "size": "m", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men sporty slim polo-shirt",
+    "description": "slim sporty polo shirt for men",
+    "brand": "nike",
+    "material": "polyester",
+    "price": 350,
+    "oldPrice": 400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde808e265d2841b77f18",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black7.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 14 },
+          { "size": "l", "stock": 12 }
+        ]
+      },
+      {
+        "color": "red",
+        "colorCode": "#FF0000",
+        "images": ["red3.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white10.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 10 },
+          { "size": "m", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Casual Shirt",
+    "description": "Slim fit casual shirt for men",
+    "brand": "Nike",
+    "material": "Cotton",
+    "price": 350,
+    "oldPrice": 400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde8e8e265d2841b77f1c",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Classic Formal Shirt",
+    "description": "Elegant formal shirt for office wear",
+    "brand": "Zara",
+    "material": "Cotton Blend",
+    "price": 400,
+    "oldPrice": 450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde8e8e265d2841b77f1c",
+    "variants": [
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Light Blue",
+        "colorCode": "#ADD8E6",
+        "images": ["blue1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Linen Summer Shirt",
+    "description": "Lightweight linen shirt perfect for summer",
+    "brand": "H&M",
+    "material": "Linen",
+    "price": 310,
+    "oldPrice": 350,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde8e8e265d2841b77f1c",
+    "variants": [
+      {
+        "color": "Beige",
+        "colorCode": "#F5F5DC",
+        "images": ["beige1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      },
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white3.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 8 },
+          { "size": "M", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Dress Shirt",
+    "description": "Perfect slim fit dress shirt for office and events",
+    "brand": "Puma",
+    "material": "Cotton",
+    "price": 370,
+    "oldPrice": 420,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde8e8e265d2841b77f1c",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey1.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Everyday Shirt",
+    "description": "Comfortable casual shirt for daily wear",
+    "brand": "Reebok",
+    "material": "Cotton",
+    "price": 280,
+    "oldPrice": 320,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde8e8e265d2841b77f1c",
+    "variants": [
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white4.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Long Sleeve Casual Shirt",
+    "description": "Comfortable long sleeve shirt for casual outings",
+    "brand": "Nike",
+    "material": "Cotton",
+    "price": 300,
+    "oldPrice": 350,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde8e8e265d2841b77f1c",
+    "variants": [
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black3.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 8 },
+          { "size": "M", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Summer Linen Shirt",
+    "description": "Lightweight shirt made of breathable linen",
+    "brand": "H&M",
+    "material": "Linen",
+    "price": 320,
+    "oldPrice": 360,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde8e8e265d2841b77f1c",
+    "variants": [
+      {
+        "color": "Beige",
+        "colorCode": "#F5F5DC",
+        "images": ["beige2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white5.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Formal Office Shirt",
+    "description": "Perfect shirt for office and formal events",
+    "brand": "Zara",
+    "material": "Cotton Blend",
+    "price": 390,
+    "oldPrice": 430,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde8e8e265d2841b77f1c",
+    "variants": [
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white6.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue3.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Summer Shirt",
+    "description": "Slim fit shirt for summer with breathable fabric",
+    "brand": "Puma",
+    "material": "Cotton",
+    "price": 360,
+    "oldPrice": 400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde8e8e265d2841b77f1c",
+    "variants": [
+      {
+        "color": "Green",
+        "colorCode": "#008000",
+        "images": ["green1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black4.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Stylish Casual Shirt",
+    "description": "Trendy casual shirt for everyday use",
+    "brand": "Reebok",
+    "material": "Cotton",
+    "price": 290,
+    "oldPrice": 330,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde8e8e265d2841b77f1c",
+    "variants": [
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue4.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white6.jpg"],
+        "sizes": [
+          { "size": "S", "stock": 10 },
+          { "size": "M", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Over-Shirt",
+    "description": "Comfortable casual over-shirt for layering",
+    "brand": "Nike",
+    "material": "Cotton Blend",
+    "price": 450,
+    "oldPrice": 500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde988e265d2841b77f20",
+    "variants": [
+      {
+        "color": "Beige",
+        "colorCode": "#F5F5DC",
+        "images": ["beige1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 15 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Olive",
+        "colorCode": "#808000",
+        "images": ["olive1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 10 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Over-Shirt",
+    "description": "Slim fit over-shirt perfect for office or casual wear",
+    "brand": "Zara",
+    "material": "Cotton",
+    "price": 480,
+    "oldPrice": 520,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde988e265d2841b77f20",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Denim Over-Shirt",
+    "description": "Stylish denim over-shirt for layering",
+    "brand": "Levi's",
+    "material": "Denim",
+    "price": 520,
+    "oldPrice": 580,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde988e265d2841b77f20",
+    "variants": [
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Light Blue",
+        "colorCode": "#ADD8E6",
+        "images": ["lightblue1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Checked Over-Shirt",
+    "description": "Comfortable checked over-shirt for casual style",
+    "brand": "H&M",
+    "material": "Cotton",
+    "price": 400,
+    "oldPrice": 450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde988e265d2841b77f20",
+    "variants": [
+      {
+        "color": "Red/Black",
+        "colorCode": "#FF0000",
+        "images": ["redblack1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 15 },
+          { "size": "L", "stock": 13 }
+        ]
+      },
+      {
+        "color": "Green/Black",
+        "colorCode": "#008000",
+        "images": ["greenblack1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Corduroy Over-Shirt",
+    "description": "Soft corduroy over-shirt for layering in cooler weather",
+    "brand": "Uniqlo",
+    "material": "Corduroy",
+    "price": 460,
+    "oldPrice": 500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde988e265d2841b77f20",
+    "variants": [
+      {
+        "color": "Brown",
+        "colorCode": "#A52A2A",
+        "images": ["brown1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Beige",
+        "colorCode": "#F5F5DC",
+        "images": ["beige2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Winter Over-Shirt",
+    "description": "Warm over-shirt perfect for winter layering",
+    "brand": "The North Face",
+    "material": "Wool Blend",
+    "price": 550,
+    "oldPrice": 600,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde988e265d2841b77f20",
+    "variants": [
+      {
+        "color": "Navy",
+        "colorCode": "#000080",
+        "images": ["navy1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 10 },
+          { "size": "L", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Lightweight Over-Shirt",
+    "description": "Perfect lightweight shirt for layering in spring",
+    "brand": "Adidas",
+    "material": "Cotton Blend",
+    "price": 430,
+    "oldPrice": 470,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde988e265d2841b77f20",
+    "variants": [
+      {
+        "color": "Khaki",
+        "colorCode": "#F0E68C",
+        "images": ["khaki1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Olive",
+        "colorCode": "#808000",
+        "images": ["olive2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Oversized Over-Shirt",
+    "description": "Trendy oversized over-shirt for casual layering",
+    "brand": "Puma",
+    "material": "Cotton",
+    "price": 470,
+    "oldPrice": 520,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde988e265d2841b77f20",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black3.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 15 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey3.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 10 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Checked Wool Over-Shirt",
+    "description": "Checked wool over-shirt for stylish layering",
+    "brand": "H&M",
+    "material": "Wool Blend",
+    "price": 520,
+    "oldPrice": 570,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde988e265d2841b77f20",
+    "variants": [
+      {
+        "color": "Red/Black",
+        "colorCode": "#FF0000",
+        "images": ["redblack2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Blue/Black",
+        "colorCode": "#0000FF",
+        "images": ["blueblack1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Layered Over-Shirt",
+    "description": "Soft over-shirt for layered casual outfits",
+    "brand": "Reebok",
+    "material": "Cotton Blend",
+    "price": 440,
+    "oldPrice": 480,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfde988e265d2841b77f20",
+    "variants": [
+      {
+        "color": "Green",
+        "colorCode": "#008000",
+        "images": ["green2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Beige",
+        "colorCode": "#F5F5DC",
+        "images": ["beige3.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Shorts",
+    "description": "Comfortable casual shorts for daily wear",
+    "brand": "Nike",
+    "material": "Cotton Blend",
+    "price": 250,
+    "oldPrice": 300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeaf8e265d2841b77f24",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 18 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Shorts",
+    "description": "Slim fit shorts perfect for casual outings",
+    "brand": "Adidas",
+    "material": "Cotton",
+    "price": 270,
+    "oldPrice": 320,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeaf8e265d2841b77f24",
+    "variants": [
+      {
+        "color": "Navy",
+        "colorCode": "#000080",
+        "images": ["navy1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 15 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Beige",
+        "colorCode": "#F5F5DC",
+        "images": ["beige1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Sports Shorts",
+    "description": "Lightweight sports shorts for workouts",
+    "brand": "Puma",
+    "material": "Polyester",
+    "price": 300,
+    "oldPrice": 350,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeaf8e265d2841b77f24",
+    "variants": [
+      {
+        "color": "Red",
+        "colorCode": "#FF0000",
+        "images": ["red1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Denim Shorts",
+    "description": "Stylish denim shorts for casual wear",
+    "brand": "Levi's",
+    "material": "Denim",
+    "price": 350,
+    "oldPrice": 400,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeaf8e265d2841b77f24",
+    "variants": [
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 15 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Light Blue",
+        "colorCode": "#ADD8E6",
+        "images": ["lightblue1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Cargo Shorts",
+    "description": "Functional cargo shorts with multiple pockets",
+    "brand": "H&M",
+    "material": "Cotton",
+    "price": 380,
+    "oldPrice": 420,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeaf8e265d2841b77f24",
+    "variants": [
+      {
+        "color": "Olive",
+        "colorCode": "#808000",
+        "images": ["olive1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Khaki",
+        "colorCode": "#F0E68C",
+        "images": ["khaki1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Athletic Shorts",
+    "description": "Breathable shorts for running and training",
+    "brand": "Under Armour",
+    "material": "Polyester",
+    "price": 320,
+    "oldPrice": 360,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeaf8e265d2841b77f24",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black3.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 18 }
+        ]
+      },
+      {
+        "color": "Red",
+        "colorCode": "#FF0000",
+        "images": ["red2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Linen Summer Shorts",
+    "description": "Lightweight linen shorts for summer comfort",
+    "brand": "H&M",
+    "material": "Linen",
+    "price": 300,
+    "oldPrice": 340,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeaf8e265d2841b77f24",
+    "variants": [
+      {
+        "color": "Beige",
+        "colorCode": "#F5F5DC",
+        "images": ["beige1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Stretch Shorts",
+    "description": "Comfortable stretch shorts for everyday wear",
+    "brand": "Nike",
+    "material": "Cotton Blend",
+    "price": 270,
+    "oldPrice": 310,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeaf8e265d2841b77f24",
+    "variants": [
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black4.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Denim Cargo Shorts",
+    "description": "Denim cargo shorts with stylish fit",
+    "brand": "Levi's",
+    "material": "Denim",
+    "price": 380,
+    "oldPrice": 420,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeaf8e265d2841b77f24",
+    "variants": [
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Dark Blue",
+        "colorCode": "#00008B",
+        "images": ["darkblue1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Everyday Summer Shorts",
+    "description": "Light and casual shorts perfect for summer",
+    "brand": "Reebok",
+    "material": "Cotton",
+    "price": 260,
+    "oldPrice": 300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeaf8e265d2841b77f24",
+    "variants": [
+      {
+        "color": "Olive",
+        "colorCode": "#808000",
+        "images": ["olive2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Beige",
+        "colorCode": "#F5F5DC",
+        "images": ["beige2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Casual Sweatshirt",
+    "description": "Comfortable casual sweatshirt for everyday wear",
+    "brand": "Nike",
+    "material": "Cotton Blend",
+    "price": 400,
+    "oldPrice": 450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeb98e265d2841b77f28",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 15 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Sweatshirt",
+    "description": "Slim fit sweatshirt perfect for casual outings",
+    "brand": "Adidas",
+    "material": "Cotton",
+    "price": 420,
+    "oldPrice": 470,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeb98e265d2841b77f28",
+    "variants": [
+      {
+        "color": "Navy",
+        "colorCode": "#000080",
+        "images": ["navy1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Beige",
+        "colorCode": "#F5F5DC",
+        "images": ["beige1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Hooded Sweatshirt",
+    "description": "Comfortable hoodie sweatshirt with hood",
+    "brand": "Puma",
+    "material": "Polyester Blend",
+    "price": 450,
+    "oldPrice": 500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeb98e265d2841b77f28",
+    "variants": [
+      {
+        "color": "Red",
+        "colorCode": "#FF0000",
+        "images": ["red1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Crewneck Sweatshirt",
+    "description": "Classic crewneck sweatshirt for casual layering",
+    "brand": "H&M",
+    "material": "Cotton",
+    "price": 380,
+    "oldPrice": 420,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeb98e265d2841b77f28",
+    "variants": [
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Printed Sweatshirt",
+    "description": "Stylish printed sweatshirt for casual wear",
+    "brand": "Reebok",
+    "material": "Cotton Blend",
+    "price": 390,
+    "oldPrice": 430,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeb98e265d2841b77f28",
+    "variants": [
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 18 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black3.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Zipper Sweatshirt",
+    "description": "Sweatshirt with front zipper for layering",
+    "brand": "Nike",
+    "material": "Cotton Blend",
+    "price": 460,
+    "oldPrice": 500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeb98e265d2841b77f28",
+    "variants": [
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey3.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black4.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Fleece Sweatshirt",
+    "description": "Warm fleece sweatshirt for colder days",
+    "brand": "The North Face",
+    "material": "Fleece",
+    "price": 500,
+    "oldPrice": 550,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeb98e265d2841b77f28",
+    "variants": [
+      {
+        "color": "Navy",
+        "colorCode": "#000080",
+        "images": ["navy2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey4.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 10 },
+          { "size": "L", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Oversized Sweatshirt",
+    "description": "Trendy oversized sweatshirt for casual style",
+    "brand": "Puma",
+    "material": "Cotton",
+    "price": 430,
+    "oldPrice": 470,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeb98e265d2841b77f28",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black5.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Red",
+        "colorCode": "#FF0000",
+        "images": ["red2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Lightweight Sweatshirt",
+    "description": "Lightweight sweatshirt for layering in spring",
+    "brand": "H&M",
+    "material": "Cotton Blend",
+    "price": 380,
+    "oldPrice": 420,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeb98e265d2841b77f28",
+    "variants": [
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey5.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Pocket Sweatshirt",
+    "description": "Casual sweatshirt with front pocket",
+    "brand": "Reebok",
+    "material": "Cotton",
+    "price": 400,
+    "oldPrice": 450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdeb98e265d2841b77f28",
+    "variants": [
+      {
+        "color": "Green",
+        "colorCode": "#008000",
+        "images": ["green1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black6.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men classic jacket black",
+    "description": "classic black jacket for men",
+    "brand": "zara",
+    "material": "cotton",
+    "price": 450,
+    "oldPrice": 500,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdec78e265d2841b77f2c",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 }
+        ]
+      },
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["grey1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "navy",
+        "colorCode": "#000080",
+        "images": ["navy1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 8 },
+          { "size": "l", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men slim fit jacket",
+    "description": "modern slim fit jacket",
+    "brand": "hm",
+    "material": "cotton",
+    "price": 430,
+    "oldPrice": 480,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdec78e265d2841b77f2c",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black2.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 9 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 }
+        ]
+      },
+      {
+        "color": "brown",
+        "colorCode": "#8B4513",
+        "images": ["brown1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 8 },
+          { "size": "l", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men sporty jacket",
+    "description": "sporty style jacket for men",
+    "brand": "nike",
+    "material": "polyester",
+    "price": 470,
+    "oldPrice": 520,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdec78e265d2841b77f2c",
+    "variants": [
+      {
+        "color": "red",
+        "colorCode": "#FF0000",
+        "images": ["red1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 14 },
+          { "size": "l", "stock": 12 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black3.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 10 },
+          { "size": "m", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men casual jacket",
+    "description": "daily casual jacket for men",
+    "brand": "adidas",
+    "material": "cotton",
+    "price": 440,
+    "oldPrice": 490,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdec78e265d2841b77f2c",
+    "variants": [
+      {
+        "color": "blue",
+        "colorCode": "#0000FF",
+        "images": ["blue1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black4.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 }
+        ]
+      },
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["grey2.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 8 },
+          { "size": "m", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men modern jacket",
+    "description": "modern stylish jacket",
+    "brand": "pull&bear",
+    "material": "cotton",
+    "price": 460,
+    "oldPrice": 510,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdec78e265d2841b77f2c",
+    "variants": [
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["grey3.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 14 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white3.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 9 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black5.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 8 },
+          { "size": "m", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men trendy jacket",
+    "description": "latest fashion jacket for men",
+    "brand": "zara",
+    "material": "cotton",
+    "price": 480,
+    "oldPrice": 530,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdec78e265d2841b77f2c",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black6.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 16 },
+          { "size": "l", "stock": 12 }
+        ]
+      },
+      {
+        "color": "red",
+        "colorCode": "#FF0000",
+        "images": ["red2.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 14 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["grey4.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 10 },
+          { "size": "m", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men winter jacket",
+    "description": "warm winter jacket for men",
+    "brand": "hm",
+    "material": "wool",
+    "price": 500,
+    "oldPrice": 550,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdec78e265d2841b77f2c",
+    "variants": [
+      {
+        "color": "brown",
+        "colorCode": "#8B4513",
+        "images": ["brown1.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black7.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 }
+        ]
+      },
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["grey5.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 8 },
+          { "size": "m", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men casual sporty jacket",
+    "description": "casual sporty jacket",
+    "brand": "adidas",
+    "material": "polyester",
+    "price": 470,
+    "oldPrice": 520,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdec78e265d2841b77f2c",
+    "variants": [
+      {
+        "color": "blue",
+        "colorCode": "#0000FF",
+        "images": ["blue2.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white4.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 15 },
+          { "size": "l", "stock": 12 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black8.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 10 },
+          { "size": "m", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men slim sporty jacket",
+    "description": "slim sporty jacket",
+    "brand": "nike",
+    "material": "polyester",
+    "price": 460,
+    "oldPrice": 510,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdec78e265d2841b77f2c",
+    "variants": [
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black9.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 14 },
+          { "size": "l", "stock": 12 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white5.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "red",
+        "colorCode": "#FF0000",
+        "images": ["red3.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 10 },
+          { "size": "m", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+
+  {
+    "title": "men modern slim sporty jacket",
+    "description": "modern slim sporty jacket",
+    "brand": "pull&bear",
+    "material": "cotton",
+    "price": 480,
+    "oldPrice": 530,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdec78e265d2841b77f2c",
+    "variants": [
+      {
+        "color": "grey",
+        "colorCode": "#808080",
+        "images": ["grey6.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 12 },
+          { "size": "l", "stock": 10 }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#000000",
+        "images": ["black10.jpg"],
+        "sizes": [
+          { "size": "m", "stock": 10 },
+          { "size": "l", "stock": 8 }
+        ]
+      },
+      {
+        "color": "white",
+        "colorCode": "#FFFFFF",
+        "images": ["white6.jpg"],
+        "sizes": [
+          { "size": "s", "stock": 8 },
+          { "size": "m", "stock": 6 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Classic Pullover",
+    "description": "Comfortable classic pullover for everyday wear",
+    "brand": "Nike",
+    "material": "Cotton Blend",
+    "price": 420,
+    "oldPrice": 470,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfded18e265d2841b77f30",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 15 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Slim Fit Pullover",
+    "description": "Slim fit pullover perfect for casual outings",
+    "brand": "Adidas",
+    "material": "Cotton",
+    "price": 440,
+    "oldPrice": 490,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfded18e265d2841b77f30",
+    "variants": [
+      {
+        "color": "Navy",
+        "colorCode": "#000080",
+        "images": ["navy1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Beige",
+        "colorCode": "#F5F5DC",
+        "images": ["beige1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Hooded Pullover",
+    "description": "Comfortable pullover with hood for layering",
+    "brand": "Puma",
+    "material": "Polyester Blend",
+    "price": 470,
+    "oldPrice": 520,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfded18e265d2841b77f30",
+    "variants": [
+      {
+        "color": "Red",
+        "colorCode": "#FF0000",
+        "images": ["red1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Crewneck Pullover",
+    "description": "Classic crewneck pullover for casual layering",
+    "brand": "H&M",
+    "material": "Cotton",
+    "price": 400,
+    "oldPrice": 450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfded18e265d2841b77f30",
+    "variants": [
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Printed Pullover",
+    "description": "Stylish printed pullover for casual wear",
+    "brand": "Reebok",
+    "material": "Cotton Blend",
+    "price": 410,
+    "oldPrice": 450,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfded18e265d2841b77f30",
+    "variants": [
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 18 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black3.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Fleece Pullover",
+    "description": "Warm fleece pullover for colder days",
+    "brand": "The North Face",
+    "material": "Fleece",
+    "price": 500,
+    "oldPrice": 550,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfded18e265d2841b77f30",
+    "variants": [
+      {
+        "color": "Navy",
+        "colorCode": "#000080",
+        "images": ["navy2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey3.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 10 },
+          { "size": "L", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Oversized Pullover",
+    "description": "Trendy oversized pullover for casual style",
+    "brand": "Puma",
+    "material": "Cotton",
+    "price": 430,
+    "oldPrice": 470,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfded18e265d2841b77f30",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black4.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Red",
+        "colorCode": "#FF0000",
+        "images": ["red2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Lightweight Pullover",
+    "description": "Lightweight pullover for layering in spring",
+    "brand": "H&M",
+    "material": "Cotton Blend",
+    "price": 400,
+    "oldPrice": 440,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfded18e265d2841b77f30",
+    "variants": [
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey4.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Pocket Pullover",
+    "description": "Casual pullover with front pocket",
+    "brand": "Reebok",
+    "material": "Cotton",
+    "price": 420,
+    "oldPrice": 460,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfded18e265d2841b77f30",
+    "variants": [
+      {
+        "color": "Green",
+        "colorCode": "#008000",
+        "images": ["green1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black5.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Winter Pullover",
+    "description": "Warm pullover for winter layering",
+    "brand": "The North Face",
+    "material": "Wool Blend",
+    "price": 520,
+    "oldPrice": 570,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfded18e265d2841b77f30",
+    "variants": [
+      {
+        "color": "Brown",
+        "colorCode": "#A52A2A",
+        "images": ["brown1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      },
+      {
+        "color": "Beige",
+        "colorCode": "#F5F5DC",
+        "images": ["beige1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 10 },
+          { "size": "L", "stock": 8 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Swim Short Basic",
+    "description": "Comfortable and lightweight basic swim shorts",
+    "brand": "Nike",
+    "material": "Polyester",
+    "price": 250,
+    "oldPrice": 300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdee58e265d2841b77f34",
+    "variants": [
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 18 }
+        ]
+      },
+      {
+        "color": "Red",
+        "colorCode": "#FF0000",
+        "images": ["red1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Swim Short Stripe",
+    "description": "Stylish striped swim shorts for summer",
+    "brand": "Adidas",
+    "material": "Polyester",
+    "price": 270,
+    "oldPrice": 320,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdee58e265d2841b77f34",
+    "variants": [
+      {
+        "color": "Navy",
+        "colorCode": "#000080",
+        "images": ["navy1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Swim Short Printed",
+    "description": "Printed swim shorts for casual beachwear",
+    "brand": "Puma",
+    "material": "Polyester Blend",
+    "price": 300,
+    "oldPrice": 350,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdee58e265d2841b77f34",
+    "variants": [
+      {
+        "color": "Green",
+        "colorCode": "#008000",
+        "images": ["green1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Yellow",
+        "colorCode": "#FFFF00",
+        "images": ["yellow1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Swim Short Casual",
+    "description": "Casual swimming shorts perfect for beach",
+    "brand": "H&M",
+    "material": "Polyester",
+    "price": 260,
+    "oldPrice": 300,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdee58e265d2841b77f34",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 15 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Swim Short Sport",
+    "description": "Lightweight sport swim shorts for active use",
+    "brand": "Reebok",
+    "material": "Polyester",
+    "price": 280,
+    "oldPrice": 320,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdee58e265d2841b77f34",
+    "variants": [
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Red",
+        "colorCode": "#FF0000",
+        "images": ["red2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Swim Short Solid",
+    "description": "Solid color swim shorts for a simple look",
+    "brand": "Nike",
+    "material": "Polyester",
+    "price": 270,
+    "oldPrice": 310,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdee58e265d2841b77f34",
+    "variants": [
+      {
+        "color": "Navy",
+        "colorCode": "#000080",
+        "images": ["navy2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      },
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Swim Short Striped",
+    "description": "Striped swim shorts for casual beach style",
+    "brand": "Adidas",
+    "material": "Polyester",
+    "price": 290,
+    "oldPrice": 330,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdee58e265d2841b77f34",
+    "variants": [
+      {
+        "color": "Red/White",
+        "colorCode": "#FF0000",
+        "images": ["redwhite1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Blue/White",
+        "colorCode": "#0000FF",
+        "images": ["bluewhite1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Swim Short Tropical",
+    "description": "Tropical print swim shorts for summer fun",
+    "brand": "Puma",
+    "material": "Polyester",
+    "price": 310,
+    "oldPrice": 360,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdee58e265d2841b77f34",
+    "variants": [
+      {
+        "color": "Green/Blue",
+        "colorCode": "#008000",
+        "images": ["greenblue1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      },
+      {
+        "color": "Yellow/Blue",
+        "colorCode": "#FFFF00",
+        "images": ["yellowblue1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 12 },
+          { "size": "L", "stock": 10 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Swim Short Quick Dry",
+    "description": "Quick-dry swim shorts ideal for pool or beach",
+    "brand": "Reebok",
+    "material": "Polyester",
+    "price": 320,
+    "oldPrice": 370,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdee58e265d2841b77f34",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Swim Short Tropical Print",
+    "description": "Vibrant tropical print swim shorts for summer",
+    "brand": "Nike",
+    "material": "Polyester",
+    "price": 330,
+    "oldPrice": 380,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdee58e265d2841b77f34",
+    "variants": [
+      {
+        "color": "Blue/Green",
+        "colorCode": "#0000FF",
+        "images": ["bluegreen1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Red/Yellow",
+        "colorCode": "#FF0000",
+        "images": ["redyellow1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Athletic Sportswear Set",
+    "description": "Lightweight athletic top and shorts set for workouts",
+    "brand": "Nike",
+    "material": "Polyester",
+    "price": 550,
+    "oldPrice": 600,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdef88e265d2841b77f38",
+    "variants": [
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 20 },
+          { "size": "L", "stock": 18 }
+        ]
+      },
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Running Sportswear",
+    "description": "Breathable running t-shirt and shorts combo",
+    "brand": "Adidas",
+    "material": "Polyester",
+    "price": 500,
+    "oldPrice": 550,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdef88e265d2841b77f38",
+    "variants": [
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      },
+      {
+        "color": "Red",
+        "colorCode": "#FF0000",
+        "images": ["red1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Gym Sportswear",
+    "description": "Gym-ready sportswear top and shorts combo",
+    "brand": "Puma",
+    "material": "Cotton Blend",
+    "price": 520,
+    "oldPrice": 580,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdef88e265d2841b77f38",
+    "variants": [
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Lightweight Sportswear",
+    "description": "Lightweight top and shorts for outdoor sports",
+    "brand": "H&M",
+    "material": "Polyester",
+    "price": 480,
+    "oldPrice": 520,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdef88e265d2841b77f38",
+    "variants": [
+      {
+        "color": "Navy",
+        "colorCode": "#000080",
+        "images": ["navy1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Training Sportswear",
+    "description": "Durable sportswear set for training and workouts",
+    "brand": "Reebok",
+    "material": "Polyester",
+    "price": 510,
+    "oldPrice": 560,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdef88e265d2841b77f38",
+    "variants": [
+      {
+        "color": "Black/Red",
+        "colorCode": "#FF0000",
+        "images": ["blackred1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      },
+      {
+        "color": "Blue/White",
+        "colorCode": "#0000FF",
+        "images": ["bluewhite1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Soccer Sportswear",
+    "description": "Soccer-ready sportswear top and shorts combo",
+    "brand": "Nike",
+    "material": "Polyester",
+    "price": 540,
+    "oldPrice": 590,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdef88e265d2841b77f38",
+    "variants": [
+      {
+        "color": "Red",
+        "colorCode": "#FF0000",
+        "images": ["red2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      },
+      {
+        "color": "White",
+        "colorCode": "#FFFFFF",
+        "images": ["white2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Basketball Sportswear",
+    "description": "Comfortable sportswear for basketball training",
+    "brand": "Adidas",
+    "material": "Cotton Blend",
+    "price": 530,
+    "oldPrice": 580,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdef88e265d2841b77f38",
+    "variants": [
+      {
+        "color": "Blue",
+        "colorCode": "#0000FF",
+        "images": ["blue2.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black3.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Crossfit Sportswear",
+    "description": "Flexible and breathable sportswear for crossfit",
+    "brand": "Puma",
+    "material": "Polyester Blend",
+    "price": 520,
+    "oldPrice": 560,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdef88e265d2841b77f38",
+    "variants": [
+      {
+        "color": "Grey",
+        "colorCode": "#808080",
+        "images": ["grey1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black4.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Fitness Sportswear",
+    "description": "Durable sportswear for gym and fitness activities",
+    "brand": "H&M",
+    "material": "Polyester",
+    "price": 500,
+    "oldPrice": 550,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdef88e265d2841b77f38",
+    "variants": [
+      {
+        "color": "Black/Grey",
+        "colorCode": "#000000",
+        "images": ["blackgrey1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 18 },
+          { "size": "L", "stock": 16 }
+        ]
+      },
+      {
+        "color": "Blue/Navy",
+        "colorCode": "#000080",
+        "images": ["bluenavy1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  },
+  {
+    "title": "Men Outdoor Sportswear",
+    "description": "Breathable sportswear set for outdoor activities",
+    "brand": "Reebok",
+    "material": "Polyester",
+    "price": 510,
+    "oldPrice": 560,
+    "collection": "69b55a72c7d748a43c85b25a",
+    "category": "69b726ff71728cbc02027bba",
+    "subcategory": "69bfdef88e265d2841b77f38",
+    "variants": [
+      {
+        "color": "Green",
+        "colorCode": "#008000",
+        "images": ["green1.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 16 },
+          { "size": "L", "stock": 14 }
+        ]
+      },
+      {
+        "color": "Black",
+        "colorCode": "#000000",
+        "images": ["black5.jpg"],
+        "sizes": [
+          { "size": "M", "stock": 14 },
+          { "size": "L", "stock": 12 }
+        ]
+      }
+    ],
+    "averageRating": 0,
+    "numReviews": 0
+  }
+]

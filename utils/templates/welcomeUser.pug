@@ -1,0 +1,89 @@
+doctype html
+html
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    title Welcome Back
+    style.
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background-color: #f4f6f9;
+      }
+      .container {
+        max-width: 600px;
+        margin: 30px auto;
+        background: #ffffff;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      }
+      .header {
+        background: linear-gradient(135deg, #4CAF50, #2e7d32);
+        color: #fff;
+        text-align: center;
+        padding: 20px;
+      }
+      .content {
+        padding: 25px;
+        color: #333;
+        line-height: 1.6;
+      }
+      .info-box {
+        background: #f1f1f1;
+        padding: 15px;
+        border-radius: 8px;
+        margin: 15px 0;
+      }
+      .btn {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 12px 20px;
+        background: #4CAF50;
+        color: #fff !important;
+        text-decoration: none;
+        border-radius: 6px;
+      }
+      .footer {
+        text-align: center;
+        padding: 15px;
+        font-size: 12px;
+        color: #888;
+      }
+
+  body
+    .container
+      .header
+        h2 Welcome Back, #{userName} 👋
+
+      .content
+        p Hello #{userName},
+
+        p We're happy to see you again! You have successfully logged into your account.
+
+        if lastLogin
+          p Your last login was on:
+          .info-box
+            strong #{lastLogin}
+
+        if loginLocation
+          p Login location:
+          .info-box
+            strong #{loginLocation}
+
+        if device
+          p Device used:
+          .info-box
+            strong #{device}
+
+        if isSuspicious
+          .info-box(style="background:#ffe5e5; color:#c62828;")
+            strong ⚠️ Suspicious login detected!
+            p If this wasn't you, please secure your account immediately.
+
+        a.btn(href=dashboardUrl) Go to your dashboard
+
+      .footer
+        p © #{year} #{appName}. All rights reserved.
+        p If you did not login, please contact support immediately.
