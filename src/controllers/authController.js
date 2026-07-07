@@ -100,6 +100,7 @@ exports.updatePassword = async (req, res, next) => {
 
 exports.forgotPassword = async (req, res, next) => {
   try {
+    console.log(req.body.email);
     const result = await authService.forgotPassword(req.body.email);
     res.status(200).json(result);
   } catch (err) {
@@ -174,4 +175,3 @@ exports.verifyEmailCode = async (req, res, next) => {
     next(err);
   }
 };
- 
