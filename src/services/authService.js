@@ -30,7 +30,8 @@ exports.signup = async (data) => {
   const expires = Date.now() + 10 * 60 * 1000; // 10 min
   await authRepo.setEmailVerificationCode(email, code, expires);
 
-  new Email(user, code).sendEmailVerification().catch(() => {});
+  new Email(user, code).sendEmailVerification()
+    .catch(err => console.error("sendEmailVerification error:", err.message));
 
   return { user, message: "Signup successful. Please verify your email ✅" };
 };
@@ -80,7 +81,8 @@ exports.sendEmailVerificationCode = async (email) => {
   const user = await authRepo.setEmailVerificationCode(email, code, expires);
   if (!user) throw new AppError("User not found", 404);
 
-  new Email(user, code).sendEmailVerification().catch(() => {});
+  new Email(user, code).sendEmailVerification()
+    .catch(err => console.error("sendEmailVerificationCode error:", err.message));
 
   return { message: "Verification code sent to your email ✅" };
 };
@@ -142,7 +144,8 @@ exports.forgotPassword = async (email) => {
 
   const resetURL = `${process.env.USER_FRONTEND_URL}/reset-password/${resetToken}`;
 
-  new Email(user, resetURL).sendPasswordReset().catch(() => {});
+  new Email(user, resetURL).sendPasswordReset()
+    .catch(err => console.error("forgotPassword error:", err.message));
 
   return { message: "Password reset token sent to email ✅" };
 };
