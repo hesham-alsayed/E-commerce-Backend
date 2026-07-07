@@ -1,4 +1,4 @@
-const https = require("https");
+const nodemailer = require("nodemailer");
 const pug = require("pug");
 const { htmlToText } = require("html-to-text");
 const path = require("path");
@@ -8,8 +8,18 @@ class Email {
     this.to = user.email;
     this.firstName = user.firstName || "User";
     this.urlOrCode = urlOrCode;
-    this.from = process.env.RESEND_FROM_EMAIL;
+    this.from = (process.env.EMAIL_FROM || "").trim();
     this.variables = variables;
+  }
+
+  newTransport() {
+    return nodemailer.createTransport({
+      service: "gmail",
+      auth: {
+        user: process.env.EMAIL_USERNAME,
+        pass: process.env.EMAIL_PASSWORD,
+      },
+    });
   }
 
   render(template, subject) {
@@ -26,45 +36,14 @@ class Email {
 
   async send(template, subject) {
     const html = this.render(template, subject);
-    const data = JSON.stringify({
+    const mailOptions = {
       from: this.from,
-      to: [this.to],
+      to: this.to,
       subject,
       html,
       text: htmlToText(html),
-    });
-
-    await new Promise((resolve, reject) => {
-      const req = https.request(
-        {
-          hostname: "api.resend.com",
-          path: "/emails",
-          method: "POST",
-          headers: {
-            Authorization: `Bearer ${process.env.RESEND_API_KEY}`,
-            "Content-Type": "application/json",
-            "Content-Length": Buffer.byteLength(data),
-          },
-          timeout: 15000,
-        },
-        (res) => {
-          let body = "";
-          res.on("data", (chunk) => (body += chunk));
-          res.on("end", () => {
-            if (res.statusCode === 200) resolve();
-            else {
-              let msg = body;
-              try { msg = JSON.parse(body).message || body; } catch {}
-              reject(new Error(msg));
-            }
-          });
-        },
-      );
-      req.on("error", reject);
-      req.on("timeout", () => { req.destroy(); reject(new Error("Request timeout")); });
-      req.write(data);
-      req.end();
-    });
+    };
+    await this.newTransport().sendMail(mailOptions);
   }
 
   async sendPasswordReset() {
