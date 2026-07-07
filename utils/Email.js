@@ -8,7 +8,6 @@ class Email {
     this.to = user.email;
     this.firstName = user.firstName || "User";
     this.urlOrCode = urlOrCode;
-    this.from = process.env.RESEND_FROM_EMAIL;
     this.variables = variables;
   }
 
@@ -26,52 +25,51 @@ class Email {
 
   async send(template, subject) {
     const html = this.render(template, subject);
-    const data = JSON.stringify({
-      from: this.from,
-      to: [this.to],
+    const text = htmlToText(html);
+    const payload = JSON.stringify({
+      sender: { email: process.env.BREVO_FROM_EMAIL, name: "E-Commerce Store" },
+      to: [{ email: this.to }],
       subject,
-      html,
-      text: htmlToText(html),
+      htmlContent: html,
+      textContent: text,
     });
-
-    await new Promise((resolve, reject) => {
+    return new Promise((resolve, reject) => {
       const req = https.request(
         {
-          hostname: "api.resend.com",
-          path: "/emails",
+          hostname: "api.brevo.com",
+          path: "/v3/smtp/email",
           method: "POST",
           headers: {
-            Authorization: `Bearer ${process.env.RESEND_API_KEY}`,
+            "api-key": process.env.BREVO_API_KEY,
             "Content-Type": "application/json",
-            "Content-Length": Buffer.byteLength(data),
+            "Content-Length": Buffer.byteLength(payload),
           },
           timeout: 15000,
         },
         (res) => {
           let body = "";
-          res.on("data", (chunk) => (body += chunk));
+          res.on("data", (c) => (body += c));
           res.on("end", () => {
-            if (res.statusCode === 200) resolve();
-            else {
-              let msg = body;
-              try { msg = JSON.parse(body).message || body; } catch {}
-              reject(new Error(msg));
+            if (res.statusCode >= 200 && res.statusCode < 300) {
+              resolve(body);
+            } else {
+              reject(new Error(`Brevo ${res.statusCode}: ${body}`));
             }
           });
         },
       );
       req.on("error", reject);
-      req.on("timeout", () => { req.destroy(); reject(new Error("Request timeout")); });
-      req.write(data);
+      req.on("timeout", () => {
+        req.destroy();
+        reject(new Error("Brevo request timed out"));
+      });
+      req.write(payload);
       req.end();
     });
   }
 
   async sendPasswordReset() {
-    await this.send(
-      "passwordReset",
-      "Your password reset token (valid 10 minutes)",
-    );
+    await this.send("passwordReset", "Your password reset token (valid 10 minutes)");
   }
 
   async sendEmailVerification() {

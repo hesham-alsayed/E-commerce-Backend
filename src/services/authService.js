@@ -27,11 +27,11 @@ exports.signup = async (data) => {
   const expires = Date.now() + 10 * 60 * 1000;
   await authRepo.setEmailVerificationCode(email, code, expires);
 
-  setImmediate(() => {
-    new Email(user, code).sendEmailVerification()
-      .then(() => console.log("Verification email sent to", user.email))
-      .catch((err) => console.error("sendEmailVerification error:", err.message));
-  });
+  try {
+    await new Email(user, code).sendEmailVerification();
+  } catch (e) {
+    console.error("sendEmailVerification error:", e.message);
+  }
 
   return { user, message: "Signup successful. Please verify your email" };
 };
@@ -73,11 +73,11 @@ exports.sendEmailVerificationCode = async (email) => {
   const user = await authRepo.setEmailVerificationCode(email, code, expires);
   if (!user) throw new AppError("User not found", 404);
 
-  setImmediate(() => {
-    new Email(user, code).sendEmailVerification()
-      .then(() => console.log("Verification code sent to", user.email))
-      .catch((err) => console.error("sendEmailVerificationCode error:", err.message));
-  });
+  try {
+    await new Email(user, code).sendEmailVerification();
+  } catch (e) {
+    console.error("sendEmailVerificationCode error:", e.message);
+  }
 
   return { message: "Verification code sent to your email" };
 };
@@ -125,11 +125,11 @@ exports.forgotPassword = async (email) => {
   const resetURL = `${baseURL}/reset-password/${resetToken}`;
   console.log(resetURL); 
   console.log(email)
-  setImmediate(() => {
-    new Email(user, resetURL).sendPasswordReset()
-      .then(() => console.log("Password reset email sent to", user.email))
-      .catch((err) => console.error("forgotPassword error:", err.message));
-  });
+  try {
+    await new Email(user, resetURL).sendPasswordReset();
+  } catch (e) {
+    console.error("forgotPassword error:", e.message);
+  }
 
   return { message: "Password reset token sent to your email" };
 };
