@@ -122,7 +122,7 @@ exports.forgotPassword = async (email) => {
   await authRepo.setPasswordResetToken(user._id, hashedToken, expires);
 
   const baseURL = (process.env.USER_FRONTEND_URL || "").replace(/\/+$/, "");
-  const resetURL = `${baseURL}/reset-password/${resetToken}`;
+  const resetURL = `${baseURL}/reset-password?token=${resetToken}`;
   console.log(resetURL); 
   console.log(email)
   try {
