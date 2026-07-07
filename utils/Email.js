@@ -13,9 +13,10 @@ class Email {
     this.variables = variables;
   }
 
-  newTransport() {
+  async newTransport() {
+    const addresses = await dns.promises.resolve4("smtp.gmail.com");
     return nodemailer.createTransport({
-      host: "smtp.gmail.com",
+      host: addresses[0],
       port: 587,
       secure: false,
       requireTLS: true,
@@ -24,9 +25,6 @@ class Email {
         pass: process.env.EMAIL_PASSWORD,
       },
       connectionTimeout: 30000,
-      lookup(hostname, opts, cb) {
-        dns.lookup(hostname, { ...opts, family: 4 }, cb);
-      },
     });
   }
 
@@ -51,7 +49,8 @@ class Email {
       html,
       text: htmlToText(html),
     };
-    await this.newTransport().sendMail(mailOptions);
+    const transport = await this.newTransport();
+    await transport.sendMail(mailOptions);
   }
 
   async sendPasswordReset() {
