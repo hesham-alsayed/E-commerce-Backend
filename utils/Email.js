@@ -2,6 +2,7 @@ const nodemailer = require("nodemailer");
 const pug = require("pug");
 const { htmlToText } = require("html-to-text");
 const path = require("path");
+const dns = require("dns");
 const AppError = require("./AppError");
 
 class Email {
@@ -25,6 +26,9 @@ class Email {
       },
       connectionTimeout: 20000,
       greetingTimeout: 20000,
+      lookup(hostname, options, cb) {
+        dns.lookup(hostname, { ...options, family: 4 }, cb);
+      },
     });
   }
 
