@@ -2,7 +2,6 @@ const nodemailer = require("nodemailer");
 const pug = require("pug");
 const { htmlToText } = require("html-to-text");
 const path = require("path");
-const dns = require("dns");
 
 class Email {
   constructor(user, urlOrCode = null, variables = {}) {
@@ -13,18 +12,13 @@ class Email {
     this.variables = variables;
   }
 
-  async newTransport() {
-    const addresses = await dns.promises.resolve4("smtp.gmail.com");
+  newTransport() {
     return nodemailer.createTransport({
-      host: addresses[0],
-      port: 587,
-      secure: false,
-      requireTLS: true,
+      service: "gmail",
       auth: {
         user: process.env.EMAIL_USERNAME,
         pass: process.env.EMAIL_PASSWORD,
       },
-      connectionTimeout: 30000,
     });
   }
 
@@ -49,8 +43,7 @@ class Email {
       html,
       text: htmlToText(html),
     };
-    const transport = await this.newTransport();
-    await transport.sendMail(mailOptions);
+    await this.newTransport().sendMail(mailOptions);
   }
 
   async sendPasswordReset() {
