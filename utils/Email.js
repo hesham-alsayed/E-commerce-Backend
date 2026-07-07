@@ -1,39 +1,15 @@
-const nodemailer = require("nodemailer");
+const https = require("https");
 const pug = require("pug");
 const { htmlToText } = require("html-to-text");
 const path = require("path");
-const dns = require("dns");
-
-let smtpHost = null;
-async function resolveGmailIPv4() {
-  if (!smtpHost) {
-    const addrs = await dns.promises.resolve4("smtp.gmail.com");
-    smtpHost = addrs[0];
-  }
-  return smtpHost;
-}
 
 class Email {
   constructor(user, urlOrCode = null, variables = {}) {
     this.to = user.email;
     this.firstName = user.firstName || "User";
     this.urlOrCode = urlOrCode;
-    this.from = (process.env.EMAIL_FROM || "").trim();
+    this.from = process.env.RESEND_FROM_EMAIL;
     this.variables = variables;
-  }
-
-  async newTransport() {
-    const host = await resolveGmailIPv4();
-    return nodemailer.createTransport({
-      host,
-      port: 465,
-      secure: true,
-      auth: {
-        user: process.env.EMAIL_USERNAME,
-        pass: process.env.EMAIL_PASSWORD,
-      },
-      connectionTimeout: 15000,
-    });
   }
 
   render(template, subject) {
@@ -50,15 +26,45 @@ class Email {
 
   async send(template, subject) {
     const html = this.render(template, subject);
-    const mailOptions = {
+    const data = JSON.stringify({
       from: this.from,
-      to: this.to,
+      to: [this.to],
       subject,
       html,
       text: htmlToText(html),
-    };
-    const transport = await this.newTransport();
-    await transport.sendMail(mailOptions);
+    });
+
+    await new Promise((resolve, reject) => {
+      const req = https.request(
+        {
+          hostname: "api.resend.com",
+          path: "/emails",
+          method: "POST",
+          headers: {
+            Authorization: `Bearer ${process.env.RESEND_API_KEY}`,
+            "Content-Type": "application/json",
+            "Content-Length": Buffer.byteLength(data),
+          },
+          timeout: 15000,
+        },
+        (res) => {
+          let body = "";
+          res.on("data", (chunk) => (body += chunk));
+          res.on("end", () => {
+            if (res.statusCode === 200) resolve();
+            else {
+              let msg = body;
+              try { msg = JSON.parse(body).message || body; } catch {}
+              reject(new Error(msg));
+            }
+          });
+        },
+      );
+      req.on("error", reject);
+      req.on("timeout", () => { req.destroy(); reject(new Error("Request timeout")); });
+      req.write(data);
+      req.end();
+    });
   }
 
   async sendPasswordReset() {
