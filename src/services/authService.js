@@ -121,7 +121,8 @@ exports.forgotPassword = async (email) => {
 
   await authRepo.setPasswordResetToken(user._id, hashedToken, expires);
 
-  const resetURL = `${process.env.USER_FRONTEND_URL}/reset-password/${resetToken}`;
+  const baseURL = (process.env.USER_FRONTEND_URL || "").replace(/\/+$/, "");
+  const resetURL = `${baseURL}/reset-password/${resetToken}`;
   console.log(resetURL); 
   console.log(email)
   setImmediate(() => {
