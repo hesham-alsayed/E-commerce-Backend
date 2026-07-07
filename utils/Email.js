@@ -1,30 +1,17 @@
-const nodemailer = require("nodemailer");
+const sgMail = require("@sendgrid/mail");
 const pug = require("pug");
 const { htmlToText } = require("html-to-text");
 const path = require("path");
+
+sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
 class Email {
   constructor(user, urlOrCode = null, variables = {}) {
     this.to = user.email;
     this.firstName = user.firstName || "User";
     this.urlOrCode = urlOrCode;
-    this.from = (process.env.EMAIL_FROM || "").trim();
+    this.from = process.env.SENDGRID_FROM_EMAIL;
     this.variables = variables;
-  }
-
-  newTransport() {
-    return nodemailer.createTransport({
-      host: "smtp.gmail.com",
-      port: 587,
-      secure: false,
-      requireTLS: true,
-      auth: {
-        user: process.env.EMAIL_USERNAME,
-        pass: process.env.EMAIL_PASSWORD,
-      },
-      connectionTimeout: 20000,
-      greetingTimeout: 20000,
-    });
   }
 
   render(template, subject) {
@@ -41,14 +28,14 @@ class Email {
 
   async send(template, subject) {
     const html = this.render(template, subject);
-    const mailOptions = {
-      from: this.from,
+    const msg = {
       to: this.to,
+      from: this.from,
       subject,
       html,
       text: htmlToText(html),
     };
-    await this.newTransport().sendMail(mailOptions);
+    await sgMail.send(msg);
   }
 
   async sendPasswordReset() {
