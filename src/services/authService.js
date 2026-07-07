@@ -6,13 +6,11 @@ const crypto = require("crypto");
 const Email = require("../../utils/Email");
 const bcrypt = require("bcrypt");
 
-// sign JWT
 const signToken = (id) =>
   jwt.sign({ id }, process.env.JWT_SECRET, {
     expiresIn: process.env.JWT_EXPIRES_IN || "7d",
   });
 
-// ================= SIGNUP =================
 exports.signup = async (data) => {
   const { email, password, passwordConfirm } = data;
 
@@ -25,21 +23,23 @@ exports.signup = async (data) => {
   const user = await userRepository.createUser(data);
   user.password = undefined;
 
-  // Generate verification code
   const code = Math.floor(100000 + Math.random() * 900000).toString();
-  const expires = Date.now() + 10 * 60 * 1000; // 10 min
+  const expires = Date.now() + 10 * 60 * 1000;
   await authRepo.setEmailVerificationCode(email, code, expires);
 
-  new Email(user, code).sendEmailVerification()
-    .catch(err => console.error("sendEmailVerification error:", err.message));
+  setImmediate(async () => {
+    try {
+      await new Email(user, code).sendEmailVerification();
+      console.log("Verification email sent to", user.email);
+    } catch (err) {
+      console.error("sendEmailVerification error:", err.message);
+    }
+  });
 
-  return { user, message: "Signup successful. Please verify your email ✅" };
+  return { user, message: "Signup successful. Please verify your email" };
 };
 
-// ================= LOGIN =================
 exports.login = async (email, password, req) => {
-  console.log(email, password);
-
   if (!email || !password) throw new AppError("Email & password required", 400);
 
   const user = await authRepo.getUserByEmail(email);
@@ -50,19 +50,16 @@ exports.login = async (email, password, req) => {
 
   const isMatch = await bcrypt.compare(password, user.password);
   if (!isMatch) throw new AppError("Incorrect email or password", 401);
-  console.log(isMatch);
 
   user.lastLogin = new Date();
   user.lastLoginIP = req.body.clientIp;
   await user.save();
 
   const token = signToken(user._id);
-  console.log("token ", token);
 
   return { token, user };
 };
 
-// =================== LOGOUT ===================
 exports.logout = (res) => {
   res.cookie("jwt", "", {
     expires: new Date(0),
@@ -73,7 +70,6 @@ exports.logout = (res) => {
   return { message: "Logged out successfully" };
 };
 
-// ================= SEND / RESEND VERIFICATION =================
 exports.sendEmailVerificationCode = async (email) => {
   const code = Math.floor(100000 + Math.random() * 900000).toString();
   const expires = Date.now() + 10 * 60 * 1000;
@@ -81,30 +77,30 @@ exports.sendEmailVerificationCode = async (email) => {
   const user = await authRepo.setEmailVerificationCode(email, code, expires);
   if (!user) throw new AppError("User not found", 404);
 
-  new Email(user, code).sendEmailVerification()
-    .catch(err => console.error("sendEmailVerificationCode error:", err.message));
+  setImmediate(async () => {
+    try {
+      await new Email(user, code).sendEmailVerification();
+      console.log("Verification code sent to", user.email);
+    } catch (err) {
+      console.error("sendEmailVerificationCode error:", err.message);
+    }
+  });
 
-  return { message: "Verification code sent to your email ✅" };
+  return { message: "Verification code sent to your email" };
 };
 
-// ================= VERIFY EMAIL =================
 exports.verifyEmailCode = async (email, code) => {
-  console.log(email, code);
-
   const user = await authRepo.verifyEmailCode(email, code);
   if (!user) throw new AppError("Invalid or expired verification code", 400);
-  return { user, message: "Email verified successfully ✅" };
+  return { user, message: "Email verified successfully" };
 };
 
-// =================== UPDATE PASSWORD ===================
 exports.updatePassword = async (
   userId,
   currentPassword,
   newPassword,
   passwordConfirm,
 ) => {
-  console.log(userId, currentPassword, newPassword, passwordConfirm);
-
   if (!currentPassword || !newPassword || !passwordConfirm)
     throw new AppError("All password fields are required", 400);
 
@@ -120,13 +116,11 @@ exports.updatePassword = async (
   const isMatch = await bcrypt.compare(currentPassword, user.password);
   if (!isMatch) throw new AppError("Current password is incorrect", 401);
 
-  // update password in DB (pre-save hook will hash automatically)
   await authRepo.updateUserPassword(userId, newPassword);
   user.password = undefined;
-  return { user, message: "Password updated successfully ✅" };
+  return { user, message: "Password updated successfully" };
 };
 
-// =================== FORGOT PASSWORD ===================
 exports.forgotPassword = async (email) => {
   if (!email) throw new AppError("Email is required", 400);
 
@@ -138,19 +132,24 @@ exports.forgotPassword = async (email) => {
     .createHash("sha256")
     .update(resetToken)
     .digest("hex");
-  const expires = Date.now() + 10 * 60 * 1000; // 10 min
+  const expires = Date.now() + 10 * 60 * 1000;
 
   await authRepo.setPasswordResetToken(user._id, hashedToken, expires);
 
   const resetURL = `${process.env.USER_FRONTEND_URL}/reset-password/${resetToken}`;
 
-  new Email(user, resetURL).sendPasswordReset()
-    .catch(err => console.error("forgotPassword error:", err.message));
+  setImmediate(async () => {
+    try {
+      await new Email(user, resetURL).sendPasswordReset();
+      console.log("Password reset email sent to", user.email);
+    } catch (err) {
+      console.error("forgotPassword error:", err.message);
+    }
+  });
 
-  return { message: "Password reset token sent to email ✅" };
+  return { message: "Password reset token sent to your email" };
 };
 
-// =================== RESET PASSWORD ===================
 exports.resetPassword = async (token, newPassword, passwordConfirm) => {
   if (!token || !newPassword)
     throw new AppError("Token and password required", 400);
@@ -162,11 +161,8 @@ exports.resetPassword = async (token, newPassword, passwordConfirm) => {
   const user = await authRepo.getUserByResetToken(hashedToken);
   if (!user) throw new AppError("Token is invalid or expired", 400);
 
-  // update password (pre-save hook hashes it)
   await authRepo.updateUserPassword(user._id, newPassword);
-
-  // clear reset token
   await authRepo.clearPasswordResetToken(user._id);
 
-  return { message: "Password has been reset successfully ✅" };
+  return { message: "Password has been reset successfully" };
 };

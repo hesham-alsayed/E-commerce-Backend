@@ -5,55 +5,42 @@ const path = require("path");
 const AppError = require("./AppError");
 
 class Email {
-  /**
-   * user object {email, firstName}
-   * urlOrCode string - tracking URL or any code (optional)
-   * variables object - extra variables for email template
-   */
   constructor(user, urlOrCode = null, variables = {}) {
     this.to = user.email;
     this.firstName = user.firstName || "User";
     this.urlOrCode = urlOrCode;
     this.from = process.env.EMAIL_FROM;
-    this.variables = variables; // extra variables for Pug template
+    this.variables = variables;
   }
 
   newTransport() {
     return nodemailer.createTransport({
-      service: "gmail",
+      host: "smtp.gmail.com",
+      port: 465,
+      secure: true,
       auth: {
         user: process.env.EMAIL_USERNAME,
         pass: process.env.EMAIL_PASSWORD,
       },
+      connectionTimeout: 15000,
+      greetingTimeout: 15000,
     });
   }
 
-  // Render HTML using Pug
   render(template, subject) {
-    try {
-      return pug.renderFile(
-        path.join(__dirname, `../utils/templates/${template}.pug`),
-        {
-          firstName: this.firstName,
-          urlOrCode: this.urlOrCode,
-          subject,
-          ...this.variables, // merge extra variables (items, totalPrice, shippingAddress, etc.)
-        },
-      );
-    } catch (err) {
-      throw new AppError(`Error rendering email template: ${err.message}`, 500);
-    }
+    return pug.renderFile(
+      path.join(__dirname, `../utils/templates/${template}.pug`),
+      {
+        firstName: this.firstName,
+        urlOrCode: this.urlOrCode,
+        subject,
+        ...this.variables,
+      },
+    );
   }
 
-  // Send email
   async send(template, subject) {
-    let html;
-    try {
-      html = this.render(template, subject);
-    } catch (err) {
-      throw err;
-    }
-
+    const html = this.render(template, subject);
     const mailOptions = {
       from: this.from,
       to: this.to,
@@ -61,15 +48,9 @@ class Email {
       html,
       text: htmlToText(html),
     };
-
-    try {
-      await this.newTransport().sendMail(mailOptions);
-    } catch (err) {
-      throw new AppError(`Error sending email: ${err.message}`, 500);
-    }
+    await this.newTransport().sendMail(mailOptions);
   }
 
-  // Reusable methods
   async sendPasswordReset() {
     await this.send(
       "passwordReset",

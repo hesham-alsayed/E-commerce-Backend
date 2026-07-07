@@ -132,6 +132,21 @@ exports.sendEmailCode = async (req, res, next) => {
   }
 };
 
+exports.testEmail = async (req, res, next) => {
+  try {
+    const { email } = req.body;
+    if (!email) return res.status(400).json({ error: "email required" });
+
+    const Email = require("../../utils/Email");
+    const user = { email, firstName: "Test" };
+    await new Email(user, "test-token-123").sendPasswordReset();
+
+    res.status(200).json({ message: "Email sent successfully" });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+};
+
 exports.verifyEmailCode = async (req, res, next) => {
   try {
     const { email, code } = req.body;

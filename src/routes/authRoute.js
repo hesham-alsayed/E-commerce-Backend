@@ -23,6 +23,9 @@ router.post(
   authController.login,
 );
 
+// TEST EMAIL (returns actual error)
+router.post("/test-email", authController.testEmail);
+
 // FORGOT PASSWORD
 router.post("/forgot-password", authController.forgotPassword);
 
