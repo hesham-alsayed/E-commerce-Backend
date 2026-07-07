@@ -1,4 +1,4 @@
-const nodemailer = require("nodemailer");
+const https = require("https");
 const pug = require("pug");
 const { htmlToText } = require("html-to-text");
 const path = require("path");
@@ -8,22 +8,7 @@ class Email {
     this.to = user.email;
     this.firstName = user.firstName || "User";
     this.urlOrCode = urlOrCode;
-    this.from = `"E-Commerce Store" <${process.env.BREVO_FROM_EMAIL}>`;
     this.variables = variables;
-  }
-
-  newTransport() {
-    return nodemailer.createTransport({
-      host: "smtp-relay.brevo.com",
-      port: 587,
-      secure: false,
-      requireTLS: true,
-      auth: {
-        user: process.env.BREVO_SMTP_USER,
-        pass: process.env.BREVO_SMTP_KEY,
-      },
-      connectionTimeout: 15000,
-    });
   }
 
   render(template, subject) {
@@ -38,16 +23,49 @@ class Email {
     );
   }
 
-  async send(template, subject) {
+  send(template, subject) {
     const html = this.render(template, subject);
-    const mailOptions = {
-      from: this.from,
-      to: this.to,
+    const text = htmlToText(html);
+    const payload = JSON.stringify({
+      sender: { email: process.env.BREVO_FROM_EMAIL, name: "E-Commerce Store" },
+      to: [{ email: this.to }],
       subject,
-      html,
-      text: htmlToText(html),
-    };
-    await this.newTransport().sendMail(mailOptions);
+      htmlContent: html,
+      textContent: text,
+    });
+    return new Promise((resolve, reject) => {
+      const req = https.request(
+        {
+          hostname: "api.brevo.com",
+          path: "/v3/smtp/email",
+          method: "POST",
+          headers: {
+            "api-key": process.env.BREVO_API_KEY,
+            "Content-Type": "application/json",
+            "Content-Length": Buffer.byteLength(payload),
+          },
+          timeout: 15000,
+        },
+        (res) => {
+          let body = "";
+          res.on("data", (c) => (body += c));
+          res.on("end", () => {
+            if (res.statusCode >= 200 && res.statusCode < 300) {
+              resolve(body);
+            } else {
+              reject(new Error(`Brevo ${res.statusCode}: ${body}`));
+            }
+          });
+        },
+      );
+      req.on("error", reject);
+      req.on("timeout", () => {
+        req.destroy();
+        reject(new Error("Brevo request timed out"));
+      });
+      req.write(payload);
+      req.end();
+    });
   }
 
   async sendPasswordReset() {
