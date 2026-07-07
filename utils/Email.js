@@ -2,22 +2,30 @@ const nodemailer = require("nodemailer");
 const pug = require("pug");
 const { htmlToText } = require("html-to-text");
 const path = require("path");
+const dns = require("dns");
 
 class Email {
   constructor(user, urlOrCode = null, variables = {}) {
     this.to = user.email;
     this.firstName = user.firstName || "User";
     this.urlOrCode = urlOrCode;
-    this.from = process.env.EMAIL_FROM;
+    this.from = (process.env.EMAIL_FROM || "").trim();
     this.variables = variables;
   }
 
   newTransport() {
     return nodemailer.createTransport({
-      service: "gmail",
+      host: "smtp.gmail.com",
+      port: 587,
+      secure: false,
+      requireTLS: true,
       auth: {
         user: process.env.EMAIL_USERNAME,
         pass: process.env.EMAIL_PASSWORD,
+      },
+      connectionTimeout: 30000,
+      lookup(hostname, opts, cb) {
+        dns.lookup(hostname, { ...opts, family: 4 }, cb);
       },
     });
   }
