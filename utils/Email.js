@@ -8,7 +8,7 @@ class Email {
     this.to = user.email;
     this.firstName = user.firstName || "User";
     this.urlOrCode = urlOrCode;
-    this.from = process.env.SENDGRID_FROM_EMAIL;
+    this.from = process.env.RESEND_FROM_EMAIL;
     this.variables = variables;
   }
 
@@ -27,23 +27,21 @@ class Email {
   async send(template, subject) {
     const html = this.render(template, subject);
     const data = JSON.stringify({
-      personalizations: [{ to: [{ email: this.to }] }],
-      from: { email: this.from },
+      from: this.from,
+      to: [this.to],
       subject,
-      content: [
-        { type: "text/plain", value: htmlToText(html) },
-        { type: "text/html", value: html },
-      ],
+      html,
+      text: htmlToText(html),
     });
 
     await new Promise((resolve, reject) => {
       const req = https.request(
         {
-          hostname: "api.sendgrid.com",
-          path: "/v3/mail/send",
+          hostname: "api.resend.com",
+          path: "/emails",
           method: "POST",
           headers: {
-            Authorization: `Bearer ${process.env.SENDGRID_API_KEY}`,
+            Authorization: `Bearer ${process.env.RESEND_API_KEY}`,
             "Content-Type": "application/json",
             "Content-Length": Buffer.byteLength(data),
           },
@@ -53,10 +51,10 @@ class Email {
           let body = "";
           res.on("data", (chunk) => (body += chunk));
           res.on("end", () => {
-            if (res.statusCode === 202) resolve();
+            if (res.statusCode === 200) resolve();
             else {
               let msg = body;
-              try { msg = JSON.parse(body).errors?.[0]?.message || body; } catch {}
+              try { msg = JSON.parse(body).message || body; } catch {}
               reject(new Error(msg));
             }
           });
