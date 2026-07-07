@@ -1,9 +1,7 @@
-const sgMail = require("@sendgrid/mail");
+const https = require("https");
 const pug = require("pug");
 const { htmlToText } = require("html-to-text");
 const path = require("path");
-
-sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
 class Email {
   constructor(user, urlOrCode = null, variables = {}) {
@@ -28,14 +26,47 @@ class Email {
 
   async send(template, subject) {
     const html = this.render(template, subject);
-    const msg = {
-      to: this.to,
-      from: this.from,
+    const data = JSON.stringify({
+      personalizations: [{ to: [{ email: this.to }] }],
+      from: { email: this.from },
       subject,
-      html,
-      text: htmlToText(html),
-    };
-    await sgMail.send(msg);
+      content: [
+        { type: "text/plain", value: htmlToText(html) },
+        { type: "text/html", value: html },
+      ],
+    });
+
+    await new Promise((resolve, reject) => {
+      const req = https.request(
+        {
+          hostname: "api.sendgrid.com",
+          path: "/v3/mail/send",
+          method: "POST",
+          headers: {
+            Authorization: `Bearer ${process.env.SENDGRID_API_KEY}`,
+            "Content-Type": "application/json",
+            "Content-Length": Buffer.byteLength(data),
+          },
+          timeout: 15000,
+        },
+        (res) => {
+          let body = "";
+          res.on("data", (chunk) => (body += chunk));
+          res.on("end", () => {
+            if (res.statusCode === 202) resolve();
+            else {
+              let msg = body;
+              try { msg = JSON.parse(body).errors?.[0]?.message || body; } catch {}
+              reject(new Error(msg));
+            }
+          });
+        },
+      );
+      req.on("error", reject);
+      req.on("timeout", () => { req.destroy(); reject(new Error("Request timeout")); });
+      req.write(data);
+      req.end();
+    });
   }
 
   async sendPasswordReset() {
