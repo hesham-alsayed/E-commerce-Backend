@@ -25,8 +25,6 @@ class Email {
         user: process.env.EMAIL_USERNAME,
         pass: process.env.EMAIL_PASSWORD,
       },
-      connectionTimeout: 20000,
-      greetingTimeout: 20000,
     });
   }
 
