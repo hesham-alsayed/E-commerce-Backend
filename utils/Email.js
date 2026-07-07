@@ -2,6 +2,16 @@ const nodemailer = require("nodemailer");
 const pug = require("pug");
 const { htmlToText } = require("html-to-text");
 const path = require("path");
+const dns = require("dns");
+
+let smtpHost = null;
+async function resolveGmailIPv4() {
+  if (!smtpHost) {
+    const addrs = await dns.promises.resolve4("smtp.gmail.com");
+    smtpHost = addrs[0];
+  }
+  return smtpHost;
+}
 
 class Email {
   constructor(user, urlOrCode = null, variables = {}) {
@@ -12,13 +22,17 @@ class Email {
     this.variables = variables;
   }
 
-  newTransport() {
+  async newTransport() {
+    const host = await resolveGmailIPv4();
     return nodemailer.createTransport({
-      service: "gmail",
+      host,
+      port: 465,
+      secure: true,
       auth: {
         user: process.env.EMAIL_USERNAME,
         pass: process.env.EMAIL_PASSWORD,
       },
+      connectionTimeout: 15000,
     });
   }
 
@@ -43,7 +57,8 @@ class Email {
       html,
       text: htmlToText(html),
     };
-    await this.newTransport().sendMail(mailOptions);
+    const transport = await this.newTransport();
+    await transport.sendMail(mailOptions);
   }
 
   async sendPasswordReset() {
