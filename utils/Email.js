@@ -14,7 +14,7 @@ class Email {
     this.to = user.email;
     this.firstName = user.firstName || "User";
     this.urlOrCode = urlOrCode;
-    this.from = `App <${process.env.EMAIL_FROM}>`;
+    this.from = process.env.EMAIL_FROM;
     this.variables = variables; // extra variables for Pug template
   }
 

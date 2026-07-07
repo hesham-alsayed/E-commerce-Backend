@@ -7,12 +7,15 @@ const normalize = (str) =>
 const checkGeneralSettings = (key = null) => {
   return async (req, res, next) => {
     try {
-      const settings =
-        await settingsService.getSettingByKey("general_settings");
+      let settings;
+      try {
+        settings =
+          await settingsService.getSettingByKey("general_settings");
+      } catch {
+        settings = null;
+      }
 
       const user = req.user;
-
-      console.log(settings, "general settings in middleware");
 
       // =========================
       // 1. Admin bypass
@@ -29,20 +32,14 @@ const checkGeneralSettings = (key = null) => {
       }
 
       // =========================
-      // 3. Feature flag (ARRAY FIX)
+      // 3. Feature flag
       // =========================
-      if (key) {
+      if (key && settings) {
         const normalizedKey = normalize(key);
 
         const feature = settings?.value?.find(
           (item) => normalize(item?.type) === normalizedKey,
         );
-
-        console.log("feature found:", feature);
-
-        if (!feature) {
-          return next(new AppError(`${key} feature is not configured`, 404));
-        }
 
         if (feature?.enabled === false) {
           return next(

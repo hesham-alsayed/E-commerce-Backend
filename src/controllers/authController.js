@@ -34,13 +34,10 @@ exports.login = async (req, res, next) => {
 
     const { token, user } = await authService.login(email, password, req);
 
-    // save token in cookie
-    const isDev = process.env.NODE_ENV === "development";
-
     res.cookie("token", token, {
       httpOnly: true,
-      secure: !isDev, // 🔥 مهم في production
-      sameSite: isDev ? "lax" : "none", // 🔥 مهم cross-site (Vercel ↔ Render)
+      secure: true,
+      sameSite: "none",
       maxAge: 7 * 24 * 60 * 60 * 1000,
     });
     // ❗ مهم: امسح الباسورد
