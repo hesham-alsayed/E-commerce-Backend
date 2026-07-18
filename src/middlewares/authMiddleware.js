@@ -8,6 +8,11 @@ exports.protect = async (req, res, next) => {
 
     if (req.cookies?.token) {
       token = req.cookies.token;
+    } else if (
+      req.headers.authorization &&
+      req.headers.authorization.startsWith("Bearer")
+    ) {
+      token = req.headers.authorization.split(" ")[1];
     }
 
     // ❌ مهم جدًا: لازم response مش return ساكت
